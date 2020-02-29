@@ -1,0 +1,19 @@
+.table-summary {
+    max-width: 550px;
+    background-color: rgb(51, 254, 0);
+  }
+
+  .td-number{
+      width: 40px;
+      
+  }
+
+  .td-name{
+    width: 150px;
+    
+}
+
+.td-total{
+    width: 80px;
+    
+}

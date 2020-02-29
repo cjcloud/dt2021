@@ -1,0 +1,6554 @@
+[
+	{
+		"playerId": 103955,
+		"playerDetails": {
+			"playerName": "R. Sterling",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£7.3m",
+			"gwPts": 0,
+			"gwTotalPts": 200
+		}
+	},
+	{
+		"playerId": 118748,
+		"playerDetails": {
+			"playerName": "M. Salah",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£7.1m",
+			"gwPts": 10,
+			"gwTotalPts": 159
+		}
+	},
+	{
+		"playerId": 78830,
+		"playerDetails": {
+			"playerName": "H. Kane",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£7.5m",
+			"gwPts": 0,
+			"gwTotalPts": 162
+		}
+	},
+	{
+		"playerId": 110979,
+		"playerDetails": {
+			"playerName": "s. Mane",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£7.2m",
+			"gwPts": 0,
+			"gwTotalPts": 179
+		}
+	},
+	{
+		"playerId": 101668,
+		"playerDetails": {
+			"playerName": "J. Vardy",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£5.9m",
+			"gwPts": -3,
+			"gwTotalPts": 155
+		}
+	},
+	{
+		"playerId": 37572,
+		"playerDetails": {
+			"playerName": "S. Aguero",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£7.1m",
+			"gwPts": 20,
+			"gwTotalPts": 166
+		}
+	},
+	{
+		"playerId": 61366,
+		"playerDetails": {
+			"playerName": "K. De Bruyne",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£6.4m",
+			"gwPts": 8,
+			"gwTotalPts": 165
+		}
+	},
+	{
+		"playerId": 85971,
+		"playerDetails": {
+			"playerName": "H. Son",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£5.2m",
+			"gwPts": 8,
+			"gwTotalPts": 129
+		}
+	},
+	{
+		"playerId": 54694,
+		"playerDetails": {
+			"playerName": "P. Aubameyang",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£5m",
+			"gwPts": 0,
+			"gwTotalPts": 114
+		}
+	},
+	{
+		"playerId": 146941,
+		"playerDetails": {
+			"playerName": "A. Laporte",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.8m",
+			"gwPts": 8,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 103025,
+		"playerDetails": {
+			"playerName": "R. Mahrez",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£5.2m",
+			"gwPts": 3,
+			"gwTotalPts": 151
+		}
+	},
+	{
+		"playerId": 59966,
+		"playerDetails": {
+			"playerName": "A. Lacazette",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.3m",
+			"gwPts": 0,
+			"gwTotalPts": 63
+		}
+	},
+	{
+		"playerId": 92217,
+		"playerDetails": {
+			"playerName": "R. Firmino",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.6m",
+			"gwPts": 11,
+			"gwTotalPts": 120
+		}
+	},
+	{
+		"playerId": 97032,
+		"playerDetails": {
+			"playerName": "V. van Dijk",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£5m",
+			"gwPts": 18,
+			"gwTotalPts": 134
+		}
+	},
+	{
+		"playerId": 172780,
+		"playerDetails": {
+			"playerName": "J. Maddison",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.3m",
+			"gwPts": 6,
+			"gwTotalPts": 110
+		}
+	},
+	{
+		"playerId": 176297,
+		"playerDetails": {
+			"playerName": "M. Rashford",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.8m",
+			"gwPts": 0,
+			"gwTotalPts": 186
+		}
+	},
+	{
+		"playerId": 182156,
+		"playerDetails": {
+			"playerName": "L. Sane",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 102057,
+		"playerDetails": {
+			"playerName": "R. Jimenez",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.6m",
+			"gwPts": 21,
+			"gwTotalPts": 153
+		}
+	},
+	{
+		"playerId": 169187,
+		"playerDetails": {
+			"playerName": "T. Alexander-Arnold",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.7m",
+			"gwPts": 15,
+			"gwTotalPts": 151
+		}
+	},
+	{
+		"playerId": 111931,
+		"playerDetails": {
+			"playerName": "R. Pereira",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.7m",
+			"gwPts": 17,
+			"gwTotalPts": 128
+		}
+	},
+	{
+		"playerId": 148225,
+		"playerDetails": {
+			"playerName": "A. Martial",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.6m",
+			"gwPts": 0,
+			"gwTotalPts": 105
+		}
+	},
+	{
+		"playerId": 205651,
+		"playerDetails": {
+			"playerName": "G. Jesus",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.6m",
+			"gwPts": 2,
+			"gwTotalPts": 148
+		}
+	},
+	{
+		"playerId": 47431,
+		"playerDetails": {
+			"playerName": "Willian",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.4m",
+			"gwPts": 0,
+			"gwTotalPts": 114
+		}
+	},
+	{
+		"playerId": 74208,
+		"playerDetails": {
+			"playerName": "P. Pogba",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4m",
+			"gwPts": 0,
+			"gwTotalPts": 10
+		}
+	},
+	{
+		"playerId": 122798,
+		"playerDetails": {
+			"playerName": "A. Robertson",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.3m",
+			"gwPts": 4,
+			"gwTotalPts": 114
+		}
+	},
+	{
+		"playerId": 212319,
+		"playerDetails": {
+			"playerName": "Richarlison",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.3m",
+			"gwPts": 0,
+			"gwTotalPts": 114
+		}
+	},
+	{
+		"playerId": 60914,
+		"playerDetails": {
+			"playerName": "J. Matip",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.9m",
+			"gwPts": 0,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 195735,
+		"playerDetails": {
+			"playerName": "N. Pepe",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.9m",
+			"gwPts": 0,
+			"gwTotalPts": 86
+		}
+	},
+	{
+		"playerId": 20664,
+		"playerDetails": {
+			"playerName": "D. Silva",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": 0,
+			"gwTotalPts": 61
+		}
+	},
+	{
+		"playerId": 87835,
+		"playerDetails": {
+			"playerName": "M. Doherty",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": -2,
+			"gwTotalPts": 75
+		}
+	},
+	{
+		"playerId": 114283,
+		"playerDetails": {
+			"playerName": "J. Grealish",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4.2m",
+			"gwPts": 11,
+			"gwTotalPts": 119
+		}
+	},
+	{
+		"playerId": 121160,
+		"playerDetails": {
+			"playerName": "Ederson",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 7,
+			"gwTotalPts": 63
+		}
+	},
+	{
+		"playerId": 102826,
+		"playerDetails": {
+			"playerName": "B. Mendy",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 3,
+			"gwTotalPts": 54
+		}
+	},
+	{
+		"playerId": 166989,
+		"playerDetails": {
+			"playerName": "Y. Tielemans",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 0,
+			"gwTotalPts": 77
+		}
+	},
+	{
+		"playerId": 172850,
+		"playerDetails": {
+			"playerName": "B. Chilwell",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 3,
+			"gwTotalPts": 68
+		}
+	},
+	{
+		"playerId": 206325,
+		"playerDetails": {
+			"playerName": "O. Zinchenko",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.8m",
+			"gwPts": 5,
+			"gwTotalPts": 55
+		}
+	},
+	{
+		"playerId": 101188,
+		"playerDetails": {
+			"playerName": "L. Digne",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": 7,
+			"gwTotalPts": 91
+		}
+	},
+	{
+		"playerId": 108823,
+		"playerDetails": {
+			"playerName": "D. Alli",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£4m",
+			"gwPts": 8,
+			"gwTotalPts": 92
+		}
+	},
+	{
+		"playerId": 165809,
+		"playerDetails": {
+			"playerName": "B. Silva",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 3,
+			"gwTotalPts": 90
+		}
+	},
+	{
+		"playerId": 37642,
+		"playerDetails": {
+			"playerName": "J. Evans",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 2,
+			"gwTotalPts": 86
+		}
+	},
+	{
+		"playerId": 51507,
+		"playerDetails": {
+			"playerName": "L. Koscielny",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 57127,
+		"playerDetails": {
+			"playerName": "T. Pukki",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 13,
+			"gwTotalPts": 92
+		}
+	},
+	{
+		"playerId": 58621,
+		"playerDetails": {
+			"playerName": "K. Walker",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.2m",
+			"gwPts": 5,
+			"gwTotalPts": 60
+		}
+	},
+	{
+		"playerId": 66749,
+		"playerDetails": {
+			"playerName": "R. Lukaku",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 116535,
+		"playerDetails": {
+			"playerName": "Alisson",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.6m",
+			"gwPts": 10,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 176413,
+		"playerDetails": {
+			"playerName": "C. Pulisic",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.6m",
+			"gwPts": 0,
+			"gwTotalPts": 93
+		}
+	},
+	{
+		"playerId": 82403,
+		"playerDetails": {
+			"playerName": "W. Zaha",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 2,
+			"gwTotalPts": 63
+		}
+	},
+	{
+		"playerId": 97299,
+		"playerDetails": {
+			"playerName": "J. Stones",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.1m",
+			"gwPts": 2,
+			"gwTotalPts": 22
+		}
+	},
+	{
+		"playerId": 121145,
+		"playerDetails": {
+			"playerName": "J. Cancelo",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": 2,
+			"gwTotalPts": 60
+		}
+	},
+	{
+		"playerId": 203341,
+		"playerDetails": {
+			"playerName": "W. Ndidi",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 0,
+			"gwTotalPts": 77
+		}
+	},
+	{
+		"playerId": 37915,
+		"playerDetails": {
+			"playerName": "H. Lloris",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.2m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 38454,
+		"playerDetails": {
+			"playerName": "D. Lovren",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 0,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 84939,
+		"playerDetails": {
+			"playerName": "D. Ings",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.6m",
+			"gwPts": 0,
+			"gwTotalPts": 129
+		}
+	},
+	{
+		"playerId": 85242,
+		"playerDetails": {
+			"playerName": "C. Hourihane",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": -1,
+			"gwTotalPts": 67
+		}
+	},
+	{
+		"playerId": 173879,
+		"playerDetails": {
+			"playerName": "T. Abraham",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.6m",
+			"gwPts": 5,
+			"gwTotalPts": 153
+		}
+	},
+	{
+		"playerId": 40669,
+		"playerDetails": {
+			"playerName": "A. Ogbonna",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": -4,
+			"gwTotalPts": 57
+		}
+	},
+	{
+		"playerId": 57410,
+		"playerDetails": {
+			"playerName": "N. Otamendi",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 8,
+			"gwTotalPts": 61
+		}
+	},
+	{
+		"playerId": 75115,
+		"playerDetails": {
+			"playerName": "C. Wilson",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 7,
+			"gwTotalPts": 52
+		}
+	},
+	{
+		"playerId": 122806,
+		"playerDetails": {
+			"playerName": "J. McGinn",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.2m",
+			"gwPts": 0,
+			"gwTotalPts": 62
+		}
+	},
+	{
+		"playerId": 214590,
+		"playerDetails": {
+			"playerName": "A. Wan-Bissaka",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": -2,
+			"gwTotalPts": 61
+		}
+	},
+	{
+		"playerId": 40386,
+		"playerDetails": {
+			"playerName": "C. Basham",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 0,
+			"gwTotalPts": 78
+		}
+	},
+	{
+		"playerId": 63426,
+		"playerDetails": {
+			"playerName": "E. Stevens",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 6,
+			"gwTotalPts": 71
+		}
+	},
+	{
+		"playerId": 90585,
+		"playerDetails": {
+			"playerName": "W. Boly",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.1m",
+			"gwPts": 0,
+			"gwTotalPts": 59
+		}
+	},
+	{
+		"playerId": 108416,
+		"playerDetails": {
+			"playerName": "J. Egan",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 60
+		}
+	},
+	{
+		"playerId": 152760,
+		"playerDetails": {
+			"playerName": "D. Origi",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 0,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 159533,
+		"playerDetails": {
+			"playerName": "A. Traore",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 17,
+			"gwTotalPts": 168
+		}
+	},
+	{
+		"playerId": 177815,
+		"playerDetails": {
+			"playerName": "D. Calvert-Lewin",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 15,
+			"gwTotalPts": 99
+		}
+	},
+	{
+		"playerId": 218031,
+		"playerDetails": {
+			"playerName": "C. Soyuncu",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.5m",
+			"gwPts": 2,
+			"gwTotalPts": 88
+		}
+	},
+	{
+		"playerId": 39194,
+		"playerDetails": {
+			"playerName": "J. Vertonghen",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 4,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 60689,
+		"playerDetails": {
+			"playerName": "C. Wood",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.2m",
+			"gwPts": 18,
+			"gwTotalPts": 80
+		}
+	},
+	{
+		"playerId": 69140,
+		"playerDetails": {
+			"playerName": "S. Mustafi",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 7,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 76359,
+		"playerDetails": {
+			"playerName": "P. Jones",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.2m",
+			"gwPts": 2,
+			"gwTotalPts": 23
+		}
+	},
+	{
+		"playerId": 77794,
+		"playerDetails": {
+			"playerName": "K. Trippier",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 80607,
+		"playerDetails": {
+			"playerName": "C. Eriksen",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 0,
+			"gwTotalPts": 36
+		}
+	},
+	{
+		"playerId": 82263,
+		"playerDetails": {
+			"playerName": "M. Alonso",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 0,
+			"gwTotalPts": 44
+		}
+	},
+	{
+		"playerId": 95658,
+		"playerDetails": {
+			"playerName": "H. Maguire",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": -2,
+			"gwTotalPts": 86
+		}
+	},
+	{
+		"playerId": 100180,
+		"playerDetails": {
+			"playerName": ". Danilo",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 103123,
+		"playerDetails": {
+			"playerName": "S. Haller",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.4m",
+			"gwPts": 8,
+			"gwTotalPts": 87
+		}
+	},
+	{
+		"playerId": 105700,
+		"playerDetails": {
+			"playerName": "D. Zappacosta",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 115382,
+		"playerDetails": {
+			"playerName": "N. Maupay",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 1,
+			"gwTotalPts": 64
+		}
+	},
+	{
+		"playerId": 146610,
+		"playerDetails": {
+			"playerName": "J. O'Connell",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.9m",
+			"gwPts": 0,
+			"gwTotalPts": 62
+		}
+	},
+	{
+		"playerId": 17745,
+		"playerDetails": {
+			"playerName": "K. Schmeichel",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": -2,
+			"gwTotalPts": 54
+		}
+	},
+	{
+		"playerId": 37339,
+		"playerDetails": {
+			"playerName": "A. Elmohamady",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 0,
+			"gwTotalPts": 39
+		}
+	},
+	{
+		"playerId": 41270,
+		"playerDetails": {
+			"playerName": "D. Luiz",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": -4,
+			"gwTotalPts": 40
+		}
+	},
+	{
+		"playerId": 78007,
+		"playerDetails": {
+			"playerName": "J. King",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 36
+		}
+	},
+	{
+		"playerId": 80226,
+		"playerDetails": {
+			"playerName": "S. Aurier",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.3m",
+			"gwPts": 23,
+			"gwTotalPts": 89
+		}
+	},
+	{
+		"playerId": 98745,
+		"playerDetails": {
+			"playerName": "H. Bellerin",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 7,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 101178,
+		"playerDetails": {
+			"playerName": "J. Ward-Prowse",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.9m",
+			"gwPts": 2,
+			"gwTotalPts": 63
+		}
+	},
+	{
+		"playerId": 114128,
+		"playerDetails": {
+			"playerName": "J. Castro",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 3,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 116594,
+		"playerDetails": {
+			"playerName": "N. Kante",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 3,
+			"gwTotalPts": 47
+		}
+	},
+	{
+		"playerId": 119471,
+		"playerDetails": {
+			"playerName": "F. Schar",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": -1,
+			"gwTotalPts": 42
+		}
+	},
+	{
+		"playerId": 160987,
+		"playerDetails": {
+			"playerName": "J. Gbamin",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.9m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 220566,
+		"playerDetails": {
+			"playerName": "Rodri",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 2,
+			"gwTotalPts": 74
+		}
+	},
+	{
+		"playerId": 41328,
+		"playerDetails": {
+			"playerName": "C. Azpilicueta",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3.1m",
+			"gwPts": 10,
+			"gwTotalPts": 80
+		}
+	},
+	{
+		"playerId": 44699,
+		"playerDetails": {
+			"playerName": "A. Barnes",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 0,
+			"gwTotalPts": 49
+		}
+	},
+	{
+		"playerId": 56377,
+		"playerDetails": {
+			"playerName": "A. Yarmolenko",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 40
+		}
+	},
+	{
+		"playerId": 57531,
+		"playerDetails": {
+			"playerName": "M. Antonio",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 61933,
+		"playerDetails": {
+			"playerName": "S. Duffy",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 74230,
+		"playerDetails": {
+			"playerName": "P. van Aanholt",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 47
+		}
+	},
+	{
+		"playerId": 81880,
+		"playerDetails": {
+			"playerName": "A. Oxlade-Chamberlain",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.9m",
+			"gwPts": 3,
+			"gwTotalPts": 57
+		}
+	},
+	{
+		"playerId": 172649,
+		"playerDetails": {
+			"playerName": "D. Henderson",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 11,
+			"gwTotalPts": 71
+		}
+	},
+	{
+		"playerId": 195851,
+		"playerDetails": {
+			"playerName": "S. McTominay",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 57
+		}
+	},
+	{
+		"playerId": 38411,
+		"playerDetails": {
+			"playerName": "N. Monreal",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 0,
+			"gwTotalPts": 6
+		}
+	},
+	{
+		"playerId": 49579,
+		"playerDetails": {
+			"playerName": "Pedro",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 0,
+			"gwTotalPts": 18
+		}
+	},
+	{
+		"playerId": 50232,
+		"playerDetails": {
+			"playerName": "J. Shelvey",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 3,
+			"gwTotalPts": 58
+		}
+	},
+	{
+		"playerId": 85624,
+		"playerDetails": {
+			"playerName": "C. Kabasele",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.9m",
+			"gwPts": -2,
+			"gwTotalPts": 61
+		}
+	},
+	{
+		"playerId": 101537,
+		"playerDetails": {
+			"playerName": "F. Anderson",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 60
+		}
+	},
+	{
+		"playerId": 105717,
+		"playerDetails": {
+			"playerName": "A. Masuaku",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": -3,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 15157,
+		"playerDetails": {
+			"playerName": "J. Milner",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 50
+		}
+	},
+	{
+		"playerId": 17761,
+		"playerDetails": {
+			"playerName": "J. Tarkowski",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 11,
+			"gwTotalPts": 67
+		}
+	},
+	{
+		"playerId": 19188,
+		"playerDetails": {
+			"playerName": "S. Dann",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 0,
+			"gwTotalPts": 28
+		}
+	},
+	{
+		"playerId": 19624,
+		"playerDetails": {
+			"playerName": "J. Moutinho",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 68
+		}
+	},
+	{
+		"playerId": 66975,
+		"playerDetails": {
+			"playerName": "L. Milivojevic",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 23
+		}
+	},
+	{
+		"playerId": 82691,
+		"playerDetails": {
+			"playerName": "G. Baldock",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.9m",
+			"gwPts": 2,
+			"gwTotalPts": 81
+		}
+	},
+	{
+		"playerId": 102380,
+		"playerDetails": {
+			"playerName": "A. Rudiger",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 2,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 126184,
+		"playerDetails": {
+			"playerName": "N. Ake",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 3,
+			"gwTotalPts": 29
+		}
+	},
+	{
+		"playerId": 171287,
+		"playerDetails": {
+			"playerName": "J. Gomez",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£3m",
+			"gwPts": 8,
+			"gwTotalPts": 75
+		}
+	},
+	{
+		"playerId": 213345,
+		"playerDetails": {
+			"playerName": "Wesley",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 49
+		}
+	},
+	{
+		"playerId": 444145,
+		"playerDetails": {
+			"playerName": "G. Martinelli",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 13,
+			"gwTotalPts": 75
+		}
+	},
+	{
+		"playerId": 12745,
+		"playerDetails": {
+			"playerName": "L. Baines",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 0,
+			"gwTotalPts": 9
+		}
+	},
+	{
+		"playerId": 37605,
+		"playerDetails": {
+			"playerName": "M. Ozil",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 3,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 40836,
+		"playerDetails": {
+			"playerName": "V. Guaita",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": -2,
+			"gwTotalPts": 50
+		}
+	},
+	{
+		"playerId": 43020,
+		"playerDetails": {
+			"playerName": "J. Hernandez",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 44346,
+		"playerDetails": {
+			"playerName": "O. Giroud",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 2
+		}
+	},
+	{
+		"playerId": 52940,
+		"playerDetails": {
+			"playerName": "D. Janmaat",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 46
+		}
+	},
+	{
+		"playerId": 55422,
+		"playerDetails": {
+			"playerName": "G. Sigurdsson",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 55909,
+		"playerDetails": {
+			"playerName": "C. Smalling",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 67089,
+		"playerDetails": {
+			"playerName": "M. Dubravka",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 10,
+			"gwTotalPts": 53
+		}
+	},
+	{
+		"playerId": 83543,
+		"playerDetails": {
+			"playerName": "A. Knockaert",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 86934,
+		"playerDetails": {
+			"playerName": "M. Lanzini",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 29
+		}
+	},
+	{
+		"playerId": 94245,
+		"playerDetails": {
+			"playerName": "M. Batshuayi",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 42
+		}
+	},
+	{
+		"playerId": 94924,
+		"playerDetails": {
+			"playerName": "G. Deulofeu",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 8,
+			"gwTotalPts": 70
+		}
+	},
+	{
+		"playerId": 95715,
+		"playerDetails": {
+			"playerName": "L. Moura",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 3,
+			"gwTotalPts": 65
+		}
+	},
+	{
+		"playerId": 111317,
+		"playerDetails": {
+			"playerName": "D. Brooks",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 116216,
+		"playerDetails": {
+			"playerName": "L. Trossard",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 8,
+			"gwTotalPts": 41
+		}
+	},
+	{
+		"playerId": 126187,
+		"playerDetails": {
+			"playerName": "R. Loftus-Cheek",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 171129,
+		"playerDetails": {
+			"playerName": "Diego Rico",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 5,
+			"gwTotalPts": 62
+		}
+	},
+	{
+		"playerId": 182539,
+		"playerDetails": {
+			"playerName": "D. Ceballos",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 29
+		}
+	},
+	{
+		"playerId": 192895,
+		"playerDetails": {
+			"playerName": "K. Tierney",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 13
+		}
+	},
+	{
+		"playerId": 197365,
+		"playerDetails": {
+			"playerName": "E. Bailly",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 232185,
+		"playerDetails": {
+			"playerName": "I. Sarr",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 3,
+			"gwTotalPts": 54
+		}
+	},
+	{
+		"playerId": 37096,
+		"playerDetails": {
+			"playerName": "L. Fabianski",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.7m",
+			"gwPts": 0,
+			"gwTotalPts": 44
+		}
+	},
+	{
+		"playerId": 40784,
+		"playerDetails": {
+			"playerName": "M. Sakho",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 12
+		}
+	},
+	{
+		"playerId": 51940,
+		"playerDetails": {
+			"playerName": "D. De Gea",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": -3,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 56917,
+		"playerDetails": {
+			"playerName": "S. Cook",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": -3,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 58845,
+		"playerDetails": {
+			"playerName": "C. Clark",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 6,
+			"gwTotalPts": 38
+		}
+	},
+	{
+		"playerId": 68312,
+		"playerDetails": {
+			"playerName": "X. Shaqiri",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 79934,
+		"playerDetails": {
+			"playerName": "O. Norwood",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": -2,
+			"gwTotalPts": 55
+		}
+	},
+	{
+		"playerId": 80146,
+		"playerDetails": {
+			"playerName": "J. Ayew",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": -1,
+			"gwTotalPts": 65
+		}
+	},
+	{
+		"playerId": 83299,
+		"playerDetails": {
+			"playerName": "L. Dunk",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": -3,
+			"gwTotalPts": 47
+		}
+	},
+	{
+		"playerId": 85955,
+		"playerDetails": {
+			"playerName": "Jorginho",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 13,
+			"gwTotalPts": 78
+		}
+	},
+	{
+		"playerId": 89274,
+		"playerDetails": {
+			"playerName": "Jota",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 23
+		}
+	},
+	{
+		"playerId": 92159,
+		"playerDetails": {
+			"playerName": "J. Willems",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 5,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 110735,
+		"playerDetails": {
+			"playerName": "A. Webster",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": -3,
+			"gwTotalPts": 36
+		}
+	},
+	{
+		"playerId": 164511,
+		"playerDetails": {
+			"playerName": "Y. Mina",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 2,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 168580,
+		"playerDetails": {
+			"playerName": "A. Perez",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 13,
+			"gwTotalPts": 76
+		}
+	},
+	{
+		"playerId": 193488,
+		"playerDetails": {
+			"playerName": "A. El Ghazi",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 0,
+			"gwTotalPts": 79
+		}
+	},
+	{
+		"playerId": 200617,
+		"playerDetails": {
+			"playerName": "D. James",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 58
+		}
+	},
+	{
+		"playerId": 209046,
+		"playerDetails": {
+			"playerName": "C. Hudson-Odoi",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 5,
+			"gwTotalPts": 55
+		}
+	},
+	{
+		"playerId": 225796,
+		"playerDetails": {
+			"playerName": "R. James",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.8m",
+			"gwPts": 3,
+			"gwTotalPts": 77
+		}
+	},
+	{
+		"playerId": 18987,
+		"playerDetails": {
+			"playerName": "R. Snodgrass",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 5,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 41725,
+		"playerDetails": {
+			"playerName": "T. Deeney",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": 8,
+			"gwTotalPts": 47
+		}
+	},
+	{
+		"playerId": 41727,
+		"playerDetails": {
+			"playerName": "R. Bennett",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 41733,
+		"playerDetails": {
+			"playerName": "G. Wijnaldum",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 3,
+			"gwTotalPts": 39
+		}
+	},
+	{
+		"playerId": 57145,
+		"playerDetails": {
+			"playerName": "F. Fernandez",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 12,
+			"gwTotalPts": 38
+		}
+	},
+	{
+		"playerId": 58893,
+		"playerDetails": {
+			"playerName": "M. Rojo",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 59859,
+		"playerDetails": {
+			"playerName": "I. Gundogan",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 3,
+			"gwTotalPts": 55
+		}
+	},
+	{
+		"playerId": 78916,
+		"playerDetails": {
+			"playerName": "D. Burn",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 44
+		}
+	},
+	{
+		"playerId": 83283,
+		"playerDetails": {
+			"playerName": "N. Redmond",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 17,
+			"gwTotalPts": 62
+		}
+	},
+	{
+		"playerId": 89470,
+		"playerDetails": {
+			"playerName": "O. Hernandez",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 94147,
+		"playerDetails": {
+			"playerName": "C. Coady",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": -2,
+			"gwTotalPts": 38
+		}
+	},
+	{
+		"playerId": 106611,
+		"playerDetails": {
+			"playerName": "M. Keane",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 48
+		}
+	},
+	{
+		"playerId": 106760,
+		"playerDetails": {
+			"playerName": "L. Shaw",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": -3,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 116643,
+		"playerDetails": {
+			"playerName": "Fabinho",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 184349,
+		"playerDetails": {
+			"playerName": "R. Sessegnon",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 20
+		}
+	},
+	{
+		"playerId": 194634,
+		"playerDetails": {
+			"playerName": "D. Jota",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 66
+		}
+	},
+	{
+		"playerId": 194794,
+		"playerDetails": {
+			"playerName": "F. Tomori",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 53
+		}
+	},
+	{
+		"playerId": 223340,
+		"playerDetails": {
+			"playerName": "B. Saka",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 46
+		}
+	},
+	{
+		"playerId": 231372,
+		"playerDetails": {
+			"playerName": "T. Ndombele",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 39
+		}
+	},
+	{
+		"playerId": 234908,
+		"playerDetails": {
+			"playerName": "J. Foyth",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 9
+		}
+	},
+	{
+		"playerId": 9089,
+		"playerDetails": {
+			"playerName": "B. Foster",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 7,
+			"gwTotalPts": 54
+		}
+	},
+	{
+		"playerId": 42899,
+		"playerDetails": {
+			"playerName": "S. Romero",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 44
+		}
+	},
+	{
+		"playerId": 51927,
+		"playerDetails": {
+			"playerName": "B. Mee",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 9,
+			"gwTotalPts": 45
+		}
+	},
+	{
+		"playerId": 56983,
+		"playerDetails": {
+			"playerName": "M. Ritchie",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 3,
+			"gwTotalPts": 6
+		}
+	},
+	{
+		"playerId": 57249,
+		"playerDetails": {
+			"playerName": "H. Mkhitaryan",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 58786,
+		"playerDetails": {
+			"playerName": "M. Kelly",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": -2,
+			"gwTotalPts": 53
+		}
+	},
+	{
+		"playerId": 60586,
+		"playerDetails": {
+			"playerName": "J. Gudmundsson",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 91651,
+		"playerDetails": {
+			"playerName": "M. Kovacic",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 50
+		}
+	},
+	{
+		"playerId": 102747,
+		"playerDetails": {
+			"playerName": "D. Sidibe",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.6m",
+			"gwPts": -1,
+			"gwTotalPts": 54
+		}
+	},
+	{
+		"playerId": 170137,
+		"playerDetails": {
+			"playerName": "A. Saint-Maximin",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 2,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 175592,
+		"playerDetails": {
+			"playerName": "N. Keita",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 193111,
+		"playerDetails": {
+			"playerName": "T. Cantwell",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 2,
+			"gwTotalPts": 58
+		}
+	},
+	{
+		"playerId": 209244,
+		"playerDetails": {
+			"playerName": "P. Foden",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 0,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 433154,
+		"playerDetails": {
+			"playerName": "D. McNeil",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 41
+		}
+	},
+	{
+		"playerId": 18892,
+		"playerDetails": {
+			"playerName": "A. Young",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 53
+		}
+	},
+	{
+		"playerId": 20658,
+		"playerDetails": {
+			"playerName": "P. Zabaleta",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": -1,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 50175,
+		"playerDetails": {
+			"playerName": "D. Welbeck",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 56979,
+		"playerDetails": {
+			"playerName": "J. Henderson",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 18,
+			"gwTotalPts": 59
+		}
+	},
+	{
+		"playerId": 58822,
+		"playerDetails": {
+			"playerName": "C. Soares",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.5m",
+			"gwPts": 8,
+			"gwTotalPts": 60
+		}
+	},
+	{
+		"playerId": 59949,
+		"playerDetails": {
+			"playerName": "S. Coleman",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": -1,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 61566,
+		"playerDetails": {
+			"playerName": "R. Pereyra",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 62398,
+		"playerDetails": {
+			"playerName": "N. Matic",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": -1,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 62974,
+		"playerDetails": {
+			"playerName": "E. Lamela",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 77359,
+		"playerDetails": {
+			"playerName": "F. Lejeune",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 12,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 98980,
+		"playerDetails": {
+			"playerName": "E. Martinez",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 100649,
+		"playerDetails": {
+			"playerName": "B. Duarte",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 5,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 103192,
+		"playerDetails": {
+			"playerName": "K. Zouma",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 109345,
+		"playerDetails": {
+			"playerName": "S. March",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 115556,
+		"playerDetails": {
+			"playerName": "B. Davies",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 131897,
+		"playerDetails": {
+			"playerName": "M. Ryan",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": -2,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 135363,
+		"playerDetails": {
+			"playerName": "A. Christensen",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 1,
+			"gwTotalPts": 11
+		}
+	},
+	{
+		"playerId": 156074,
+		"playerDetails": {
+			"playerName": "R. Holding",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": -1,
+			"gwTotalPts": 18
+		}
+	},
+	{
+		"playerId": 158534,
+		"playerDetails": {
+			"playerName": "K. Walker-Peters",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 166640,
+		"playerDetails": {
+			"playerName": "F. Balbuena",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 35
+		}
+	},
+	{
+		"playerId": 195546,
+		"playerDetails": {
+			"playerName": "E. Buendia",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 7,
+			"gwTotalPts": 76
+		}
+	},
+	{
+		"playerId": 200641,
+		"playerDetails": {
+			"playerName": "R. Nelson",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 219924,
+		"playerDetails": {
+			"playerName": "I. Diop",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 5,
+			"gwTotalPts": 27
+		}
+	},
+	{
+		"playerId": 225321,
+		"playerDetails": {
+			"playerName": "A. Ramsdale",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 3,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 7645,
+		"playerDetails": {
+			"playerName": "P. Jagielka",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 15033,
+		"playerDetails": {
+			"playerName": "W. Morgan",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.3m",
+			"gwPts": 0,
+			"gwTotalPts": 29
+		}
+	},
+	{
+		"playerId": 18726,
+		"playerDetails": {
+			"playerName": "A. Boruc",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 19419,
+		"playerDetails": {
+			"playerName": "G. Cahill",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 3,
+			"gwTotalPts": 22
+		}
+	},
+	{
+		"playerId": 37265,
+		"playerDetails": {
+			"playerName": "A. Sanchez",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 54764,
+		"playerDetails": {
+			"playerName": "J. Kodjia",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 0,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 55605,
+		"playerDetails": {
+			"playerName": "T. Alderweireld",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 8,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 80801,
+		"playerDetails": {
+			"playerName": "I. Gueye",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 93100,
+		"playerDetails": {
+			"playerName": "J. Vestergaard",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 8,
+			"gwTotalPts": 23
+		}
+	},
+	{
+		"playerId": 101148,
+		"playerDetails": {
+			"playerName": "J. Lascelles",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 7,
+			"gwTotalPts": 26
+		}
+	},
+	{
+		"playerId": 101184,
+		"playerDetails": {
+			"playerName": "C. Chambers",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 102884,
+		"playerDetails": {
+			"playerName": "P. Gazzaniga",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 11,
+			"gwTotalPts": 41
+		}
+	},
+	{
+		"playerId": 103914,
+		"playerDetails": {
+			"playerName": "C. Taylor",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 7,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 108799,
+		"playerDetails": {
+			"playerName": "L. Thompson",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 109533,
+		"playerDetails": {
+			"playerName": "E. Palmieri",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 132015,
+		"playerDetails": {
+			"playerName": "P. Hojbjerg",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 38
+		}
+	},
+	{
+		"playerId": 148508,
+		"playerDetails": {
+			"playerName": "Trezeguet",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 37
+		}
+	},
+	{
+		"playerId": 151086,
+		"playerDetails": {
+			"playerName": "M. Lemina",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 153133,
+		"playerDetails": {
+			"playerName": "A. Iwobi",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 33
+		}
+	},
+	{
+		"playerId": 154043,
+		"playerDetails": {
+			"playerName": "A. Maitland-Niles",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 40
+		}
+	},
+	{
+		"playerId": 169359,
+		"playerDetails": {
+			"playerName": "M. Targett",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 6,
+			"gwTotalPts": 33
+		}
+	},
+	{
+		"playerId": 175946,
+		"playerDetails": {
+			"playerName": "V. Camarasa",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 193105,
+		"playerDetails": {
+			"playerName": "J. Simpson",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 200826,
+		"playerDetails": {
+			"playerName": "G. Lo Celso",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 6,
+			"gwTotalPts": 20
+		}
+	},
+	{
+		"playerId": 220688,
+		"playerDetails": {
+			"playerName": "M. Greenwood",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 85
+		}
+	},
+	{
+		"playerId": 232937,
+		"playerDetails": {
+			"playerName": "B. Williams",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": -2,
+			"gwTotalPts": 52
+		}
+	},
+	{
+		"playerId": 20480,
+		"playerDetails": {
+			"playerName": "T. Krul",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 6,
+			"gwTotalPts": 24
+		}
+	},
+	{
+		"playerId": 38533,
+		"playerDetails": {
+			"playerName": "R. Patricio",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": -2,
+			"gwTotalPts": 39
+		}
+	},
+	{
+		"playerId": 47247,
+		"playerDetails": {
+			"playerName": "J. Fleck",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.2m",
+			"gwPts": 12,
+			"gwTotalPts": 62
+		}
+	},
+	{
+		"playerId": 55459,
+		"playerDetails": {
+			"playerName": "A. Cresswell",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": -3,
+			"gwTotalPts": 33
+		}
+	},
+	{
+		"playerId": 55494,
+		"playerDetails": {
+			"playerName": "J. Ward",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": -2,
+			"gwTotalPts": 17
+		}
+	},
+	{
+		"playerId": 61603,
+		"playerDetails": {
+			"playerName": "D. Drinkwater",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": -1,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 68983,
+		"playerDetails": {
+			"playerName": "M. Lowton",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 5,
+			"gwTotalPts": 18
+		}
+	},
+	{
+		"playerId": 90105,
+		"playerDetails": {
+			"playerName": "R. Fraser",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 3,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 98747,
+		"playerDetails": {
+			"playerName": "N. Pope",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 24,
+			"gwTotalPts": 61
+		}
+	},
+	{
+		"playerId": 111234,
+		"playerDetails": {
+			"playerName": "J. Pickford",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": -1,
+			"gwTotalPts": 49
+		}
+	},
+	{
+		"playerId": 145235,
+		"playerDetails": {
+			"playerName": "Angelino",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 168991,
+		"playerDetails": {
+			"playerName": "P. Billing",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 3,
+			"gwTotalPts": 53
+		}
+	},
+	{
+		"playerId": 172632,
+		"playerDetails": {
+			"playerName": "D. Gray",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 23
+		}
+	},
+	{
+		"playerId": 184341,
+		"playerDetails": {
+			"playerName": "M. Mount",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 0,
+			"gwTotalPts": 63
+		}
+	},
+	{
+		"playerId": 184667,
+		"playerDetails": {
+			"playerName": "V. Lindelof",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": -1,
+			"gwTotalPts": 54
+		}
+	},
+	{
+		"playerId": 220598,
+		"playerDetails": {
+			"playerName": "M. Obafemi",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 3,
+			"gwTotalPts": 24
+		}
+	},
+	{
+		"playerId": 20066,
+		"playerDetails": {
+			"playerName": "W. Hennessey",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 6
+		}
+	},
+	{
+		"playerId": 27436,
+		"playerDetails": {
+			"playerName": "D. McGoldrick",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 20
+		}
+	},
+	{
+		"playerId": 38290,
+		"playerDetails": {
+			"playerName": "D. Rose",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 39155,
+		"playerDetails": {
+			"playerName": "A. Lallana",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 39476,
+		"playerDetails": {
+			"playerName": "S. Papastathopoulos",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 54469,
+		"playerDetails": {
+			"playerName": "A. Smith",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 2,
+			"gwTotalPts": 17
+		}
+	},
+	{
+		"playerId": 60307,
+		"playerDetails": {
+			"playerName": "P. Gross",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 28
+		}
+	},
+	{
+		"playerId": 66838,
+		"playerDetails": {
+			"playerName": "C. Tosun",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 13,
+			"gwTotalPts": 24
+		}
+	},
+	{
+		"playerId": 81012,
+		"playerDetails": {
+			"playerName": "R. Fredericks",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 86417,
+		"playerDetails": {
+			"playerName": "J. Schlupp",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 0,
+			"gwTotalPts": 22
+		}
+	},
+	{
+		"playerId": 93284,
+		"playerDetails": {
+			"playerName": "F. Andone",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 107613,
+		"playerDetails": {
+			"playerName": "R. Saiss",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 38
+		}
+	},
+	{
+		"playerId": 109745,
+		"playerDetails": {
+			"playerName": "K. Arrizabalaga",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": -1,
+			"gwTotalPts": 24
+		}
+	},
+	{
+		"playerId": 153723,
+		"playerDetails": {
+			"playerName": "J. Lundstram",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 40
+		}
+	},
+	{
+		"playerId": 178304,
+		"playerDetails": {
+			"playerName": "L. Mousset",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 45
+		}
+	},
+	{
+		"playerId": 200089,
+		"playerDetails": {
+			"playerName": "J. Willock",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 38
+		}
+	},
+	{
+		"playerId": 216051,
+		"playerDetails": {
+			"playerName": "D. Dalot",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": -1,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 233425,
+		"playerDetails": {
+			"playerName": "A. Connolly",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 431131,
+		"playerDetails": {
+			"playerName": "M. Djenepo",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 20529,
+		"playerDetails": {
+			"playerName": "G. Murray",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 27789,
+		"playerDetails": {
+			"playerName": "Fernandinho",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 2,
+			"gwTotalPts": 28
+		}
+	},
+	{
+		"playerId": 37402,
+		"playerDetails": {
+			"playerName": "C. Fuchs",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": -1,
+			"gwTotalPts": 37
+		}
+	},
+	{
+		"playerId": 40142,
+		"playerDetails": {
+			"playerName": "A. Carroll",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 40564,
+		"playerDetails": {
+			"playerName": "H. Lansbury",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 41945,
+		"playerDetails": {
+			"playerName": "S. Prodl",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 44683,
+		"playerDetails": {
+			"playerName": "J. Rodriguez",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 11,
+			"gwTotalPts": 60
+		}
+	},
+	{
+		"playerId": 49413,
+		"playerDetails": {
+			"playerName": "J. Tomkins",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 0,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 50471,
+		"playerDetails": {
+			"playerName": "J. McArthur",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 2,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 60252,
+		"playerDetails": {
+			"playerName": "A. Townsend",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 13
+		}
+	},
+	{
+		"playerId": 60551,
+		"playerDetails": {
+			"playerName": "A. Westwood",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 7,
+			"gwTotalPts": 27
+		}
+	},
+	{
+		"playerId": 79852,
+		"playerDetails": {
+			"playerName": "J. Steer",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 80201,
+		"playerDetails": {
+			"playerName": "B. Leno",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": -1,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 120250,
+		"playerDetails": {
+			"playerName": "A. Gomes",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 6
+		}
+	},
+	{
+		"playerId": 151589,
+		"playerDetails": {
+			"playerName": "L. Dendoncker",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 3,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 156689,
+		"playerDetails": {
+			"playerName": "A. Pereira",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 35
+		}
+	},
+	{
+		"playerId": 173904,
+		"playerDetails": {
+			"playerName": "D. Sanchez",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 180804,
+		"playerDetails": {
+			"playerName": "A. Tuanzebe",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 31
+		}
+	},
+	{
+		"playerId": 201666,
+		"playerDetails": {
+			"playerName": "H. Barnes",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 18,
+			"gwTotalPts": 64
+		}
+	},
+	{
+		"playerId": 209353,
+		"playerDetails": {
+			"playerName": "P. Cutrone",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 22
+		}
+	},
+	{
+		"playerId": 229600,
+		"playerDetails": {
+			"playerName": "M. Travers",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 242058,
+		"playerDetails": {
+			"playerName": "M. Kean",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 13,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 39487,
+		"playerDetails": {
+			"playerName": "E. Pieters",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 23
+		}
+	},
+	{
+		"playerId": 51938,
+		"playerDetails": {
+			"playerName": "M. Albrighton",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 58376,
+		"playerDetails": {
+			"playerName": "A. McCarthy",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 3,
+			"gwTotalPts": 35
+		}
+	},
+	{
+		"playerId": 74471,
+		"playerDetails": {
+			"playerName": "A. Mooy",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 13,
+			"gwTotalPts": 41
+		}
+	},
+	{
+		"playerId": 86153,
+		"playerDetails": {
+			"playerName": "M. Montoya",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 88894,
+		"playerDetails": {
+			"playerName": "R. Barkley",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 107265,
+		"playerDetails": {
+			"playerName": "A. Gunn",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 109528,
+		"playerDetails": {
+			"playerName": "J. Manquillo",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 153682,
+		"playerDetails": {
+			"playerName": "H. Wilson",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 8,
+			"gwTotalPts": 51
+		}
+	},
+	{
+		"playerId": 199798,
+		"playerDetails": {
+			"playerName": "E. Konsa",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 2,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 203368,
+		"playerDetails": {
+			"playerName": "F. Guilbert",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 6,
+			"gwTotalPts": 46
+		}
+	},
+	{
+		"playerId": 204480,
+		"playerDetails": {
+			"playerName": "D. Rice",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2m",
+			"gwPts": 0,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 223911,
+		"playerDetails": {
+			"playerName": "C. Mepham",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 26
+		}
+	},
+	{
+		"playerId": 33148,
+		"playerDetails": {
+			"playerName": "C. Bravo",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 9
+		}
+	},
+	{
+		"playerId": 37614,
+		"playerDetails": {
+			"playerName": "M. Vrancic",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 38499,
+		"playerDetails": {
+			"playerName": "T. Hemed",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 40002,
+		"playerDetails": {
+			"playerName": "M. Darmian",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 40387,
+		"playerDetails": {
+			"playerName": "D. Gosling",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 0,
+			"gwTotalPts": 20
+		}
+	},
+	{
+		"playerId": 45268,
+		"playerDetails": {
+			"playerName": "M. Sissoko",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 26
+		}
+	},
+	{
+		"playerId": 57513,
+		"playerDetails": {
+			"playerName": "J. Lossl",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 59614,
+		"playerDetails": {
+			"playerName": "M. Duffy",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 59779,
+		"playerDetails": {
+			"playerName": "P. Obiang",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 78356,
+		"playerDetails": {
+			"playerName": "C. Austin",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 80447,
+		"playerDetails": {
+			"playerName": "M. Yoshida",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 12
+		}
+	},
+	{
+		"playerId": 81048,
+		"playerDetails": {
+			"playerName": "J. Drmic",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 84384,
+		"playerDetails": {
+			"playerName": "T. Klose",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 86881,
+		"playerDetails": {
+			"playerName": "N. Mendy",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 98770,
+		"playerDetails": {
+			"playerName": "O. Nyland",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 0,
+			"gwTotalPts": 9
+		}
+	},
+	{
+		"playerId": 106618,
+		"playerDetails": {
+			"playerName": "P. Dummett",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 22
+		}
+	},
+	{
+		"playerId": 115858,
+		"playerDetails": {
+			"playerName": "R. Ghezzal",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 149484,
+		"playerDetails": {
+			"playerName": "T. Mings",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 10,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 151119,
+		"playerDetails": {
+			"playerName": "D. Yedlin",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 10
+		}
+	},
+	{
+		"playerId": 157775,
+		"playerDetails": {
+			"playerName": "K. Sema",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 166324,
+		"playerDetails": {
+			"playerName": "I. Cavaleiro",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 167767,
+		"playerDetails": {
+			"playerName": ".. Kenedy",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 169102,
+		"playerDetails": {
+			"playerName": "T. Bakayoko",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 169432,
+		"playerDetails": {
+			"playerName": "O. McBurnie",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 2,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 171771,
+		"playerDetails": {
+			"playerName": "J. Bednarek",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 2,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 173515,
+		"playerDetails": {
+			"playerName": "K. Iheanacho",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 7,
+			"gwTotalPts": 58
+		}
+	},
+	{
+		"playerId": 179830,
+		"playerDetails": {
+			"playerName": "G. Diangana",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 198849,
+		"playerDetails": {
+			"playerName": "L. Torreira",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 2,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 205533,
+		"playerDetails": {
+			"playerName": "E. Nketiah",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 217593,
+		"playerDetails": {
+			"playerName": "P. Fornals",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 45
+		}
+	},
+	{
+		"playerId": 219352,
+		"playerDetails": {
+			"playerName": "A. Lookman",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 17997,
+		"playerDetails": {
+			"playerName": "P. Bardsley",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 18867,
+		"playerDetails": {
+			"playerName": "B. Sharp",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 1
+		}
+	},
+	{
+		"playerId": 55037,
+		"playerDetails": {
+			"playerName": "C. Kouyate",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.8m",
+			"gwPts": 0,
+			"gwTotalPts": 35
+		}
+	},
+	{
+		"playerId": 87121,
+		"playerDetails": {
+			"playerName": "K. Freeman",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 90518,
+		"playerDetails": {
+			"playerName": "R. Morrison",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 1
+		}
+	},
+	{
+		"playerId": 101582,
+		"playerDetails": {
+			"playerName": "Fred",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 3,
+			"gwTotalPts": 33
+		}
+	},
+	{
+		"playerId": 104547,
+		"playerDetails": {
+			"playerName": "D. Gayle",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 106757,
+		"playerDetails": {
+			"playerName": "J. Locadia",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 106837,
+		"playerDetails": {
+			"playerName": "D. Praet",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 5,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 108413,
+		"playerDetails": {
+			"playerName": "W. Hughes",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 111457,
+		"playerDetails": {
+			"playerName": "S. Kolasinac",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 11
+		}
+	},
+	{
+		"playerId": 121599,
+		"playerDetails": {
+			"playerName": "A. Doucoure",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": -2,
+			"gwTotalPts": 35
+		}
+	},
+	{
+		"playerId": 173514,
+		"playerDetails": {
+			"playerName": "I. Success",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 173807,
+		"playerDetails": {
+			"playerName": "T. Davies",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 10
+		}
+	},
+	{
+		"playerId": 180974,
+		"playerDetails": {
+			"playerName": "Joelinton",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 3,
+			"gwTotalPts": 39
+		}
+	},
+	{
+		"playerId": 184704,
+		"playerDetails": {
+			"playerName": "M. Nakamba",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": -1,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 195473,
+		"playerDetails": {
+			"playerName": "R. Brewster",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 2
+		}
+	},
+	{
+		"playerId": 216054,
+		"playerDetails": {
+			"playerName": "R. Vinagre",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 220627,
+		"playerDetails": {
+			"playerName": "J. Justin",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 223175,
+		"playerDetails": {
+			"playerName": "M. Longstaff",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 0,
+			"gwTotalPts": 28
+		}
+	},
+	{
+		"playerId": 235530,
+		"playerDetails": {
+			"playerName": "L. Kelly",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 38439,
+		"playerDetails": {
+			"playerName": "E. Capoue",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 2,
+			"gwTotalPts": 17
+		}
+	},
+	{
+		"playerId": 41823,
+		"playerDetails": {
+			"playerName": "F. Delph",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 2
+		}
+	},
+	{
+		"playerId": 43670,
+		"playerDetails": {
+			"playerName": "J. Mata",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 29
+		}
+	},
+	{
+		"playerId": 54102,
+		"playerDetails": {
+			"playerName": "J. Wilshere",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 60232,
+		"playerDetails": {
+			"playerName": "C. Dawson",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 7,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 66242,
+		"playerDetails": {
+			"playerName": "D. Propper",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 74854,
+		"playerDetails": {
+			"playerName": "S. Moore",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 4
+		}
+	},
+	{
+		"playerId": 90517,
+		"playerDetails": {
+			"playerName": "R. Brady",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 111773,
+		"playerDetails": {
+			"playerName": "E. Krafth",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 4,
+			"gwTotalPts": 6
+		}
+	},
+	{
+		"playerId": 155651,
+		"playerDetails": {
+			"playerName": "A. Masina",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 10,
+			"gwTotalPts": 32
+		}
+	},
+	{
+		"playerId": 181008,
+		"playerDetails": {
+			"playerName": "A. Ajeti",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 192303,
+		"playerDetails": {
+			"playerName": "C. Zimmermann",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 4,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 196118,
+		"playerDetails": {
+			"playerName": "Y. Muto",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 11
+		}
+	},
+	{
+		"playerId": 221239,
+		"playerDetails": {
+			"playerName": "K. Davis",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 13
+		}
+	},
+	{
+		"playerId": 222531,
+		"playerDetails": {
+			"playerName": "M. Gibbs-White",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 230046,
+		"playerDetails": {
+			"playerName": "D. Soares de Paulo",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 9,
+			"gwTotalPts": 34
+		}
+	},
+	{
+		"playerId": 242166,
+		"playerDetails": {
+			"playerName": "M. Guendouzi",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": -1,
+			"gwTotalPts": 26
+		}
+	},
+	{
+		"playerId": 18073,
+		"playerDetails": {
+			"playerName": "M. Noble",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 8,
+			"gwTotalPts": 43
+		}
+	},
+	{
+		"playerId": 18665,
+		"playerDetails": {
+			"playerName": "A. Tettey",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 9
+		}
+	},
+	{
+		"playerId": 18832,
+		"playerDetails": {
+			"playerName": "R. Stearman",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 10
+		}
+	},
+	{
+		"playerId": 20452,
+		"playerDetails": {
+			"playerName": "S. Long",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 8,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 41338,
+		"playerDetails": {
+			"playerName": "C. Cathcart",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 6,
+			"gwTotalPts": 37
+		}
+	},
+	{
+		"playerId": 49083,
+		"playerDetails": {
+			"playerName": "L. Freeman",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 59125,
+		"playerDetails": {
+			"playerName": "C. Wickham",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 10
+		}
+	},
+	{
+		"playerId": 60706,
+		"playerDetails": {
+			"playerName": ".. Adrian",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 78607,
+		"playerDetails": {
+			"playerName": "K. Mclean",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 3,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 81183,
+		"playerDetails": {
+			"playerName": "M. Vydra",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 83314,
+		"playerDetails": {
+			"playerName": "J. Hendrick",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 24
+		}
+	},
+	{
+		"playerId": 84450,
+		"playerDetails": {
+			"playerName": "G. Xhaka",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 2,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 103912,
+		"playerDetails": {
+			"playerName": "J. Ibe",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 128348,
+		"playerDetails": {
+			"playerName": "I. Amadou",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 165210,
+		"playerDetails": {
+			"playerName": "A. Jahanbakhsh",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 19
+		}
+	},
+	{
+		"playerId": 180135,
+		"playerDetails": {
+			"playerName": "S. Longstaff",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 428610,
+		"playerDetails": {
+			"playerName": "B. Jordao",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 13
+		}
+	},
+	{
+		"playerId": 15149,
+		"playerDetails": {
+			"playerName": "S. Francis",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 3,
+			"gwTotalPts": 1
+		}
+	},
+	{
+		"playerId": 20467,
+		"playerDetails": {
+			"playerName": "T. Walcott",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 3,
+			"gwTotalPts": 12
+		}
+	},
+	{
+		"playerId": 21205,
+		"playerDetails": {
+			"playerName": "T. Heaton",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 13
+		}
+	},
+	{
+		"playerId": 43250,
+		"playerDetails": {
+			"playerName": "T. Cleverley",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 11
+		}
+	},
+	{
+		"playerId": 43252,
+		"playerDetails": {
+			"playerName": "J. Chester",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 52484,
+		"playerDetails": {
+			"playerName": "L. Balogun",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 54861,
+		"playerDetails": {
+			"playerName": "C. Benteke",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 18
+		}
+	},
+	{
+		"playerId": 73426,
+		"playerDetails": {
+			"playerName": "A. Gray",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 17
+		}
+	},
+	{
+		"playerId": 83428,
+		"playerDetails": {
+			"playerName": "G. Hanley",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 4,
+			"gwTotalPts": -6
+		}
+	},
+	{
+		"playerId": 93264,
+		"playerDetails": {
+			"playerName": "E. Dier",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 0,
+			"gwTotalPts": 11
+		}
+	},
+	{
+		"playerId": 108156,
+		"playerDetails": {
+			"playerName": "B. Engels",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 123354,
+		"playerDetails": {
+			"playerName": "K. Hause",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 11,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 153127,
+		"playerDetails": {
+			"playerName": "I. Hayden",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 10,
+			"gwTotalPts": 21
+		}
+	},
+	{
+		"playerId": 179587,
+		"playerDetails": {
+			"playerName": "D. Srbeny",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 209362,
+		"playerDetails": {
+			"playerName": "Bernardo",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.3m",
+			"gwPts": 7,
+			"gwTotalPts": 16
+		}
+	},
+	{
+		"playerId": 220307,
+		"playerDetails": {
+			"playerName": "A. Danjuma",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 11948,
+		"playerDetails": {
+			"playerName": "A. Lonergan",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 15237,
+		"playerDetails": {
+			"playerName": "A. Surman",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 17601,
+		"playerDetails": {
+			"playerName": "S. Carson",
+			"playerClub": "Man City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 38490,
+		"playerDetails": {
+			"playerName": "B. Kayal",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 39847,
+		"playerDetails": {
+			"playerName": "S. Defour",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 40349,
+		"playerDetails": {
+			"playerName": "A. Begovic",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 41674,
+		"playerDetails": {
+			"playerName": "K. Long",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 48717,
+		"playerDetails": {
+			"playerName": "W. Reid",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 56872,
+		"playerDetails": {
+			"playerName": "J. Stanislas",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 58771,
+		"playerDetails": {
+			"playerName": "J. Colback",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 61316,
+		"playerDetails": {
+			"playerName": ".. Joselu",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 66797,
+		"playerDetails": {
+			"playerName": "S. Mignolet",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 87447,
+		"playerDetails": {
+			"playerName": "M. Besic",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.6m",
+			"gwPts": -1,
+			"gwTotalPts": -2
+		}
+	},
+	{
+		"playerId": 89085,
+		"playerDetails": {
+			"playerName": "N. Chalobah",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 3,
+			"gwTotalPts": 25
+		}
+	},
+	{
+		"playerId": 96787,
+		"playerDetails": {
+			"playerName": "M. Elyounoussi",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 128198,
+		"playerDetails": {
+			"playerName": "S. Boufal",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 143877,
+		"playerDetails": {
+			"playerName": "A. Sorloth",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 153256,
+		"playerDetails": {
+			"playerName": "M. Elneny",
+			"playerClub": "Arsenal"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 155569,
+		"playerDetails": {
+			"playerName": "D. Amartey",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 167473,
+		"playerDetails": {
+			"playerName": "J. Izquierdo",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 167878,
+		"playerDetails": {
+			"playerName": "B. Osborn",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 2
+		}
+	},
+	{
+		"playerId": 168566,
+		"playerDetails": {
+			"playerName": "G. Nkoudou",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 171317,
+		"playerDetails": {
+			"playerName": "R. Neves",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.2m",
+			"gwPts": 2,
+			"gwTotalPts": 27
+		}
+	},
+	{
+		"playerId": 171975,
+		"playerDetails": {
+			"playerName": "C. Robinson",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 24
+		}
+	},
+	{
+		"playerId": 174597,
+		"playerDetails": {
+			"playerName": "A. Green",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 179018,
+		"playerDetails": {
+			"playerName": "M. Almiron",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 3,
+			"gwTotalPts": 52
+		}
+	},
+	{
+		"playerId": 199598,
+		"playerDetails": {
+			"playerName": "E. Ampadu",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 216058,
+		"playerDetails": {
+			"playerName": "D. Quina",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 247632,
+		"playerDetails": {
+			"playerName": "P. Neto",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 8,
+			"gwTotalPts": 30
+		}
+	},
+	{
+		"playerId": 20310,
+		"playerDetails": {
+			"playerName": "W. Caballero",
+			"playerClub": "Chelsea"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 4
+		}
+	},
+	{
+		"playerId": 28082,
+		"playerDetails": {
+			"playerName": "R. Fahrmann",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 40145,
+		"playerDetails": {
+			"playerName": "J. Cork",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.6m",
+			"gwPts": 0,
+			"gwTotalPts": 9
+		}
+	},
+	{
+		"playerId": 40845,
+		"playerDetails": {
+			"playerName": "D. Stephens",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 3,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 40868,
+		"playerDetails": {
+			"playerName": "J. Holebas",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": -1,
+			"gwTotalPts": -3
+		}
+	},
+	{
+		"playerId": 41320,
+		"playerDetails": {
+			"playerName": "C. Daniels",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": -2
+		}
+	},
+	{
+		"playerId": 42748,
+		"playerDetails": {
+			"playerName": "G. Bong",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 7
+		}
+	},
+	{
+		"playerId": 76542,
+		"playerDetails": {
+			"playerName": "S. Ki",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 78056,
+		"playerDetails": {
+			"playerName": "O. Romeu",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 2,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 90440,
+		"playerDetails": {
+			"playerName": "T. Trybull",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": 4
+		}
+	},
+	{
+		"playerId": 109322,
+		"playerDetails": {
+			"playerName": "J. Lingard",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 154131,
+		"playerDetails": {
+			"playerName": "J. Stacey",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 178876,
+		"playerDetails": {
+			"playerName": "J. Vallejo",
+			"playerClub": "Wolves"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": -5
+		}
+	},
+	{
+		"playerId": 200439,
+		"playerDetails": {
+			"playerName": "C. Adams",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 15
+		}
+	},
+	{
+		"playerId": 20145,
+		"playerDetails": {
+			"playerName": "A. Mariappa",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 7,
+			"gwTotalPts": 17
+		}
+	},
+	{
+		"playerId": 40146,
+		"playerDetails": {
+			"playerName": "R. Bertrand",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 6,
+			"gwTotalPts": 14
+		}
+	},
+	{
+		"playerId": 47390,
+		"playerDetails": {
+			"playerName": "N. Taylor",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.6m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 88900,
+		"playerDetails": {
+			"playerName": "J. Stephens",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 8,
+			"gwTotalPts": 36
+		}
+	},
+	{
+		"playerId": 124165,
+		"playerDetails": {
+			"playerName": "P. Roberts",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 141020,
+		"playerDetails": {
+			"playerName": "M. Meyer",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.6m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 152551,
+		"playerDetails": {
+			"playerName": "J. Lerma",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": -1,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 197469,
+		"playerDetails": {
+			"playerName": "H. Choudhury",
+			"playerClub": "Leicester"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 13
+		}
+	},
+	{
+		"playerId": 222677,
+		"playerDetails": {
+			"playerName": "T. Chong",
+			"playerClub": "Man Utd"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 54756,
+		"playerDetails": {
+			"playerName": "V. Wanyama",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 104953,
+		"playerDetails": {
+			"playerName": "C. Atsu",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 0,
+			"gwTotalPts": 20
+		}
+	},
+	{
+		"playerId": 194799,
+		"playerDetails": {
+			"playerName": "J. Lewis",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": -14
+		}
+	},
+	{
+		"playerId": 209042,
+		"playerDetails": {
+			"playerName": "O. Skipp",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 213482,
+		"playerDetails": {
+			"playerName": "Y. Valery",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.7m",
+			"gwPts": 0,
+			"gwTotalPts": -13
+		}
+	},
+	{
+		"playerId": 227127,
+		"playerDetails": {
+			"playerName": "Y. Bissouma",
+			"playerClub": "Brighton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 0,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 87396,
+		"playerDetails": {
+			"playerName": "M. Leitner",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": 2
+		}
+	},
+	{
+		"playerId": 91047,
+		"playerDetails": {
+			"playerName": "S. Armstrong",
+			"playerClub": "Southampton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.9m",
+			"gwPts": 8,
+			"gwTotalPts": 22
+		}
+	},
+	{
+		"playerId": 113564,
+		"playerDetails": {
+			"playerName": "S. Byram",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 7,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 154566,
+		"playerDetails": {
+			"playerName": "D. Solanke",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 2,
+			"gwTotalPts": 12
+		}
+	},
+	{
+		"playerId": 157668,
+		"playerDetails": {
+			"playerName": "H. Winks",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": -1,
+			"gwTotalPts": 2
+		}
+	},
+	{
+		"playerId": 17349,
+		"playerDetails": {
+			"playerName": "A. Lennon",
+			"playerClub": "Burnley"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": -1
+		}
+	},
+	{
+		"playerId": 40694,
+		"playerDetails": {
+			"playerName": ".. Roberto",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": 1
+		}
+	},
+	{
+		"playerId": 42774,
+		"playerDetails": {
+			"playerName": "M. Schneiderlin",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.6m",
+			"gwPts": 3,
+			"gwTotalPts": 5
+		}
+	},
+	{
+		"playerId": 50472,
+		"playerDetails": {
+			"playerName": "J. McCarthy",
+			"playerClub": "Crystal Palace"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.8m",
+			"gwPts": 3,
+			"gwTotalPts": 8
+		}
+	},
+	{
+		"playerId": 54484,
+		"playerDetails": {
+			"playerName": "K. Femenia",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": 1
+		}
+	},
+	{
+		"playerId": 57114,
+		"playerDetails": {
+			"playerName": "M. Stiepermann",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": 1
+		}
+	},
+	{
+		"playerId": 155408,
+		"playerDetails": {
+			"playerName": "L. Cook",
+			"playerClub": "Bournemouth"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 0,
+			"gwTotalPts": -3
+		}
+	},
+	{
+		"playerId": 198826,
+		"playerDetails": {
+			"playerName": "B. Godfrey",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 2,
+			"gwTotalPts": -6
+		}
+	},
+	{
+		"playerId": 232980,
+		"playerDetails": {
+			"playerName": "M. Aarons",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£0.5m",
+			"gwPts": 9,
+			"gwTotalPts": -4
+		}
+	},
+	{
+		"playerId": 157882,
+		"playerDetails": {
+			"playerName": "T. Minamino",
+			"playerClub": "Liverpool"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.4m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 49384,
+		"playerDetails": {
+			"playerName": "J. Rodwell",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 432735,
+		"playerDetails": {
+			"playerName": "A. Idah",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 28
+		}
+	},
+	{
+		"playerId": 199584,
+		"playerDetails": {
+			"playerName": "J. Tanganga",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.7m",
+			"gwPts": 7,
+			"gwTotalPts": 18
+		}
+	},
+	{
+		"playerId": 8432,
+		"playerDetails": {
+			"playerName": "P. Reina",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.9m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 32259,
+		"playerDetails": {
+			"playerName": "D. Randolph",
+			"playerClub": "West Ham"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": -3,
+			"gwTotalPts": -3
+		}
+	},
+	{
+		"playerId": 168290,
+		"playerDetails": {
+			"playerName": "I. Pussetto",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 195774,
+		"playerDetails": {
+			"playerName": "G. Fernandes",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 447235,
+		"playerDetails": {
+			"playerName": "T. Parrott",
+			"playerClub": "Spurs"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 475168,
+		"playerDetails": {
+			"playerName": "J. Junqueira de Jesus",
+			"playerClub": "Watford"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.4m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 139110,
+		"playerDetails": {
+			"playerName": "O. Duda",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.6m",
+			"gwPts": 3,
+			"gwTotalPts": 3
+		}
+	},
+	{
+		"playerId": 217487,
+		"playerDetails": {
+			"playerName": "M. Samatta",
+			"playerClub": "Aston Villa"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 76306,
+		"playerDetails": {
+			"playerName": "L. Rupp",
+			"playerClub": "Norwich City"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 194164,
+		"playerDetails": {
+			"playerName": "M. Holgate",
+			"playerClub": "Everton"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£2.1m",
+			"gwPts": 9,
+			"gwTotalPts": 61
+		}
+	},
+	{
+		"playerId": 126407,
+		"playerDetails": {
+			"playerName": "N. Bentaleb",
+			"playerClub": "Newcastle United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1.5m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	},
+	{
+		"playerId": 83427,
+		"playerDetails": {
+			"playerName": "J. Robinson",
+			"playerClub": "Sheffield United"
+		},
+		"gwData": {
+			"gwNumber": 22,
+			"playerValue": "£1m",
+			"gwPts": 0,
+			"gwTotalPts": 0
+		}
+	}
+]
