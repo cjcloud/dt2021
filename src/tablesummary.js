@@ -9,8 +9,8 @@ const TableHead = () => {
 
         <thead className="prem">
             <tr>
-                <th>Position Last Week</th>
-                <th>Position This Week</th>
+                <th>Position Last</th>
+                <th>Position Now</th>
                 <th>Manager Name</th>
                 <th>Total Pts</th>
             </tr>
@@ -19,10 +19,6 @@ const TableHead = () => {
 }
 
 const TableRow = (teams) => {
-
-    console.log("teams in Table Row TS")
-    console.log(teams)
-
 
     let result = teams.rowData.map(team => {
 

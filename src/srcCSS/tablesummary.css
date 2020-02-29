@@ -1,6 +1,8 @@
 .table-summary {
     max-width: 550px;
-    background-color: rgb(51, 254, 0);
+   /*  background: rgb(232,149,13); */
+background: linear-gradient(90deg, rgba(232,149,13,0.9836309523809523) 0%, rgba(255,235,0,1) 100%);
+    background-color: hsl(24, 100%, 50%);
   }
 
   .td-number{
