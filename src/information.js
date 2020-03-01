@@ -26,11 +26,19 @@ export default function SimpleCard() {
                     <h5>Create a shortcut to your home screen</h5>
 
                     <ul>
-                        <p className="bullet-title">On Android and iPhone</p>
+                        <p className="bullet-title">On iPhone</p>
                         <li>Whilst on Team tables - Go to "Create Bookmark"</li>
                         <li>Scroll down to find "add to Homescreen"</li>
                         <li>This will create an icon on your phone that you can use to access the app without having to enter the web address </li>
                     </ul>
+
+                    <ul>
+                        <p className="bullet-title">On Android</p>
+                        <li>Whilst on Team tables - Access dropdown menu form three dots located at the top right of the screen</li>
+                        <li>Scroll down to find "add to Homescreen"</li>
+                        <li>This will create an icon on your phone that you can use to access the app without having to enter the web address </li>
+                    </ul>
+                    <img src="../public/footballWhite.svg" />
 
 
                 </Typography>
