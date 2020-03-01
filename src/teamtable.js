@@ -93,7 +93,7 @@ const LatestTeamTable = (managerObj1) => {
 }
 
 const TeamTable = (managers, dateLastUpdated) =>
-    <div class="jumbotron">
+    <div>
         <h3 className="pagetitle">Team Tables</h3><h6>Last Updated: {dateLastUpdated} </h6><p className="sub">GW points are calculated from Fri to Fri each week</p>
         <GridList cellHeight={360} cols={3}>
 

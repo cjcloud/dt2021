@@ -11,11 +11,11 @@
   font-stretch: semi-expanded;
 }
 
-ul {
+.list {
 padding-inline-start: 1.5rem !important;
+list-style-position: outside;
+padding-left: 1rem;
 }
-
-
 
 .card > .table {
   border-right: 2px;

@@ -12,7 +12,7 @@ const Navigation = () => {
                 <Navbar bg='primary' variant='dark' >
                     <Navbar.Brand>
                         <a href="/">
-                            <img src={process.env.PUBLIC_URL + "/footballWhite.svg"} style={{ width: 30, marginTop: -7 }} alt="" />
+                            <img src={process.env.PUBLIC_URL + "/footballWhite.svg"} style={{ width: 20, marginTop: -7 }} alt="" />
                         </a>
                     </Navbar.Brand>
                     <Nav className='mr-auto'>

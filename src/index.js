@@ -8,7 +8,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 ReactDOM.render(
 
     <Router>
-        <App title="blahblah" />
+        <App title="DT-App-UP" />
     </Router>
     , document.getElementById('root'));
 
