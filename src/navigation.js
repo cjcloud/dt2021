@@ -1,9 +1,7 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
-
-const icon = "../public/football1.svg"
-
+import { Table } from '../node_modules/bootstrap/dist/css/bootstrap.css'
 
 const Navigation = () => {
 
@@ -11,12 +9,10 @@ const Navigation = () => {
         <>
             <container>
 
-
-
                 <Navbar bg='primary' variant='dark' >
                     <Navbar.Brand>
                         <a href="/">
-                            <img src={process.env.PUBLIC_URL + "/footballWhite.svg"} style={{ width: 30, marginTop: -7 }} />
+                            <img src={process.env.PUBLIC_URL + "/footballWhite.svg"} style={{ width: 30, marginTop: -7 }} alt="" />
                         </a>
                     </Navbar.Brand>
                     <Nav className='mr-auto'>

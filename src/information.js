@@ -1,5 +1,4 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
@@ -7,10 +6,7 @@ import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 
 
-
 export default function SimpleCard() {
-
-
 
     return (
         <Card >
@@ -34,13 +30,13 @@ export default function SimpleCard() {
 
                     <ul>
                         <p className="bullet-title">On Android</p>
-                        <li>Whilst on Team tables - Access dropdown menu form three dots located at the top right of the screen</li>
+                        <li>Whilst on Team tables - Access dropdown menu from three dots located at the top right of the screen</li>
                         <li>Scroll down to find "add to Homescreen"</li>
                         <li>This will create an icon on your phone that you can use to access the app without having to enter the web address </li>
                     </ul>
-                    <img src="../public/footballWhite.svg" />
-
-
+                    <ul>
+                        <img src={process.env.PUBLIC_URL + "/UDT Membersbadge.jpg"} style={{ width: 150, marginTop: -7 }} alt="Image Missing" />
+                    </ul>
                 </Typography>
             </CardContent>
             <CardActions>

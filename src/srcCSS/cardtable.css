@@ -2,6 +2,7 @@
 .jumbotron {
   background-color: rgb(0,187,254) !important;
   padding: 1rem 1rem !important;
+  max-width: 100%;
   
 }
 
@@ -9,6 +10,12 @@
   font-weight: 650;
   font-stretch: semi-expanded;
 }
+
+ul {
+padding-inline-start: 1.5rem !important;
+}
+
+
 
 .card > .table {
   border-right: 2px;
@@ -87,7 +94,7 @@ background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgb
 
 .card {
     max-width: 1000px;
-    min-width: 362px !important; 
+    min-width: 360px !important; 
     background-color:rgb(0,187,254);
     border:none;
     align-content: left;
@@ -123,13 +130,14 @@ background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgb
  }
 
  .info {
-  max-width: 1000px;
-  min-width: 362px;
+  max-width: 100%;
+  min-width: 350px;
   border:none;
   background-color: transparent;
   vertical-align: middle;
   text-align: left;
-  padding-right: 0.8rem;
+  padding-right: 1rem;
+  
   
  }
  .bullet-title {

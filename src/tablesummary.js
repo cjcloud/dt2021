@@ -1,5 +1,5 @@
 import React from 'react'
-import { Table } from '../node_modules/bootstrap/dist/css/bootstrap.css'
+
 
 /* This app builds the manager summary table to display the weekly rankings of the managers */
 
@@ -36,13 +36,7 @@ const TableRow = (teams) => {
 
 const ManagerSummaryTable = (source, dateLastUpdated) => {
 
-    console.log("source from ManagerSummarytable")
-    console.log(source)
-
     const result = (source) => {
-
-        console.log("source in result of MST === ")
-        console.log(source)
 
         return (
             <div class="jumbotron">
