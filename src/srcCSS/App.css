@@ -4,7 +4,13 @@
  
   }
 
-
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  .navbar-brand>img {
+    padding: 7px 14px;
+  }
 
 .App-logo {
   height: 40vmin;
@@ -14,7 +20,15 @@
 #container {
   display: inline;
   justify-content: space-between;
+  padding-left: 0.5rem;
+
+}
+
+.sub {
+  text-align: left;
   padding: none;
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem !important;
 
 }
 

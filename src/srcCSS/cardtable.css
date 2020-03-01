@@ -1,4 +1,14 @@
 
+.jumbotron {
+  background-color: rgb(0,187,254) !important;
+  padding: 1rem 1rem !important;
+  
+}
+
+.pagetitle {
+  font-weight: 650;
+  font-stretch: semi-expanded;
+}
 
 .card > .table {
   border-right: 2px;
@@ -9,7 +19,8 @@
   text-indent: 1rem;
   font-size: 0.8rem;
   text-align: center;
-  background-color:rgb(224, 226, 224);
+  background: rgb(246,246,246);
+background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgba(228,229,230,1) 100%);
   padding-right: 8px;
   max-width: 100%;
   min-width: 362px;
@@ -18,7 +29,7 @@
   border-bottom: 4px;
 }
 .card > .tr:nth-child(odd) {
-  background-color: rgb(153, 156, 153) !important;
+  background-color: rgb(27, 173, 27) !important;
 }
 .card > .table:not(.table-sm) th, .card > .table:not(.table-sm) td {
   padding: 0.1rem 0.1rem;
@@ -51,7 +62,6 @@
     font-weight: bold; 
     font-style: italic; 
     color: rgb(43, 2, 53) !important;
-
     background-color: #0eda0e !important;
     background-image: linear-gradient(to bottom right, #0eda0e, rgb(8, 216, 42));
     height: 2rem;
@@ -77,12 +87,12 @@
 
 .card {
     max-width: 1000px;
-    min-width: 362px;
+    min-width: 362px !important; 
     background-color:rgb(0,187,254);
     border:none;
+    align-content: left;
 }
 .card-footer {
-  
   background-color: #260442 !important;
   font-size: 0.8rem;
   color: rgb(220, 162, 238);
@@ -111,6 +121,24 @@
   background-color: rgb(54, 3, 83);
   vertical-align: middle;
  }
+
+ .info {
+  max-width: 1000px;
+  min-width: 362px;
+  border:none;
+  background-color: transparent;
+  vertical-align: middle;
+  text-align: left;
+  padding-right: 0.8rem;
+  
+ }
+ .bullet-title {
+   padding-left: 0rem !important;
+   margin-left: 0rem !important;
+   margin-bottom: 0.2rem;
+   font-weight: 600;
+ }
+
 
  .tbl-left {
   text-align: left;

@@ -45,7 +45,7 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
         console.log(source)
 
         return (
-            <>
+            <div class="jumbotron">
                 <span id="container"><h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6></span>
 
                 <table class="mx-auto table table-bordered table-striped table-summary" >
@@ -55,7 +55,7 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
                     </tbody>
                 </table>
 
-            </>
+            </div>
         )
     }
     return result(source)
