@@ -2,7 +2,7 @@
 .jumbotron {
   background-color: rgb(0,187,254) !important;
   padding: 1rem 1rem !important;
-  max-width: 100%;
+  width: 100vw;
   
 }
 
@@ -30,7 +30,7 @@ padding-left: 1rem;
 background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgba(228,229,230,1) 100%);
   padding-right: 8px;
   max-width: 100%;
-  min-width: 362px;
+  min-width: 350px;
 }
 .card > .table:last-child {
   border-bottom: 4px;
