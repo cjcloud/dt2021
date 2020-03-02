@@ -1,21 +1,4 @@
 
-.jumbotron {
-  background-color: rgb(0,187,254) !important;
-  padding: 1rem 1rem !important;
-  width: 100vw;
-  
-}
-
-.pagetitle {
-  font-weight: 650;
-  font-stretch: semi-expanded;
-}
-
-.list {
-padding-inline-start: 1.5rem !important;
-list-style-position: outside;
-padding-left: 1rem;
-}
 
 .card > .table {
   border-right: 2px;
@@ -26,17 +9,16 @@ padding-left: 1rem;
   text-indent: 1rem;
   font-size: 0.8rem;
   text-align: center;
-  background: rgb(246,246,246);
-background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgba(228,229,230,1) 100%);
+  background-color:rgb(224, 226, 224);
   padding-right: 8px;
   max-width: 100%;
-  min-width: 350px;
+  min-width: 362px;
 }
 .card > .table:last-child {
   border-bottom: 4px;
 }
 .card > .tr:nth-child(odd) {
-  background-color: rgb(27, 173, 27) !important;
+  background-color: rgb(153, 156, 153) !important;
 }
 .card > .table:not(.table-sm) th, .card > .table:not(.table-sm) td {
   padding: 0.1rem 0.1rem;
@@ -69,6 +51,7 @@ background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgb
     font-weight: bold; 
     font-style: italic; 
     color: rgb(43, 2, 53) !important;
+
     background-color: #0eda0e !important;
     background-image: linear-gradient(to bottom right, #0eda0e, rgb(8, 216, 42));
     height: 2rem;
@@ -94,12 +77,12 @@ background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgb
 
 .card {
     max-width: 1000px;
-    min-width: 360px !important; 
+    min-width: 362px;
     background-color:rgb(0,187,254);
     border:none;
-    align-content: left;
 }
 .card-footer {
+  
   background-color: #260442 !important;
   font-size: 0.8rem;
   color: rgb(220, 162, 238);
@@ -128,25 +111,6 @@ background: linear-gradient(122deg, rgba(246,246,246,0.9836309523809523) 0%, rgb
   background-color: rgb(54, 3, 83);
   vertical-align: middle;
  }
-
- .info {
-  max-width: 100%;
-  min-width: 350px;
-  border:none;
-  background-color: transparent;
-  vertical-align: middle;
-  text-align: left;
-  padding-right: 1rem;
-  
-  
- }
- .bullet-title {
-   padding-left: 0rem !important;
-   margin-left: 0rem !important;
-   margin-bottom: 0.2rem;
-   font-weight: 600;
- }
-
 
  .tbl-left {
   text-align: left;

@@ -35,7 +35,7 @@ export default function SimpleCard() {
                         <li>This will create an icon on your phone that you can use to access the app without having to enter the web address </li>
                     </ul>
                     <ul>
-                        <img src={process.env.PUBLIC_URL + "/UDT Membersbadge.jpg"} style={{ width: 150, marginTop: -7 }} alt="Image Missing" />
+                        <img src={process.env.PUBLIC_URL + "/UDT Membersbadge.jpg"} style={{ width: 150, marginTop: -7 }} alt="badge" />
                     </ul>
                 </Typography>
             </CardContent>

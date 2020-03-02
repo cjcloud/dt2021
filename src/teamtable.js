@@ -19,7 +19,7 @@ const TableHead = () => {
 
     return (
 
-        <thead className="prem">
+        <thead class="prem">
             <tr>
                 <th class="tbl-left">Player Name</th>
                 <th>Club</th>
@@ -72,7 +72,7 @@ const LatestTeamTable = (managerObj1) => {
 
         return (
             <>
-                <div class="mx-auto card">
+                <div class=" mx-auto card">
 
                     <div class="card-header" > Manager: <span>{manager.manager}</span></div>
                     <table class="table table-bordered table-striped">
@@ -93,8 +93,8 @@ const LatestTeamTable = (managerObj1) => {
 }
 
 const TeamTable = (managers, dateLastUpdated) =>
-    <div jumbotron jumbotron-fluid>
-        <h3 className="pagetitle">Team Tables</h3><h6>Last Updated: {dateLastUpdated} </h6><p className="sub">GW points are calculated from Fri to Fri each week</p>
+    <div>
+        <span id="container"> <h3>Team Tables</h3><h6>Last Updated: {dateLastUpdated} </h6></span>
         <GridList cellHeight={360} cols={3}>
 
             <LatestTeamTable managers={managers} />
