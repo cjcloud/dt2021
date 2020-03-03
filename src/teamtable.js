@@ -56,17 +56,16 @@ const TableRow = (teams) => {
 
 const LatestTeamTable = (managerObj1) => {
 
-    console.log("managerObj1  === ")
-    console.log(managerObj1)
-
     let result = managerObj1.managers.map(manager => {
 
-        console.log("manager  === ")
-        console.log(manager)
-
         let playertotalpts = manager.teamDetails.reduce(function (sum, elem) {
-            console.log(elem)
+
             return sum + elem.gwData.gwTotalPts;
+        }, 0);
+
+        let thisGWpts = manager.teamDetails.reduce(function (sum, elem) {
+
+            return sum + elem.gwData.gwPts;
         }, 0);
 
 
@@ -80,7 +79,9 @@ const LatestTeamTable = (managerObj1) => {
                         <Manager data={manager} />
                     </table>
                     <div class="card-footer" id='totalpts'>
-                        Total =  <span >{playertotalpts}</span>
+                        <div class="bf-500" > <tr><td><span class="cf-grn">GW Total Points = </span> {thisGWpts}
+                        </td>  <td>  <span class="footer-align"> <span class="cf-grn" >Season Points = </span>{playertotalpts}</span></td></tr>
+                        </div>
                     </div>
                     <div className="spacer"></div>
 
@@ -94,7 +95,10 @@ const LatestTeamTable = (managerObj1) => {
 
 const TeamTable = (managers, dateLastUpdated) =>
     <div>
-        <span id="container"> <h3>Team Tables</h3><h6>Last Updated: {dateLastUpdated} </h6></span>
+        <span class="guttertop">
+            <h3>Team Tables</h3>
+            <h6>Last Updated: {dateLastUpdated} </h6></span>
+        <span><p class="smalltxt">GW points are calculated from Fri to Fri</p></span>
         <GridList cellHeight={360} cols={3}>
 
             <LatestTeamTable managers={managers} />

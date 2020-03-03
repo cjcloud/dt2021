@@ -1,4 +1,13 @@
-
+span > p {
+  
+  font-size: 0.7rem !important;
+  text-align: left !important;
+  padding-left: 0.5rem;
+}
+span > h3 {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+}
 
 .card > .table {
   border-right: 2px;
@@ -55,12 +64,14 @@
     background-color: #0eda0e !important;
     background-image: linear-gradient(to bottom right, #0eda0e, rgb(8, 216, 42));
     height: 2rem;
-    padding-bottom: 0.5rem;
-  padding-top: 0.2rem !important;
-  padding-bottom: 0rem;
-  border-right: 8px !important;
+    padding-bottom: 0rem !important;
+  padding-top: 0rem !important;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+ 
+ /*  border-right: 8px !important;
   border-left: 2px;
-  border-color: transparent;
+  border-color: transparent; */
  
   max-width: 100%;
   min-width: 362px;
@@ -69,39 +80,47 @@
 
 .card-header > span {
   background-color: #0eda0e !important;
-  padding-left:6rem;
+  padding-left:3rem;
   padding-bottom: 0.5rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 500;  
 }
 
 .card {
-    max-width: 1000px;
+   margin-top: 0.8rem !important;
+  max-width: 1000px;
     min-width: 362px;
-    background-color:rgb(0,187,254);
+    background-color: #0eda0e !important;
     border:none;
 }
+
+.bf-500 {
+ font-weight: 500;
+ font-size: 0.9rem;
+color: rgb(224, 226, 224);
+}
+
+.cf-grn {
+  color: #0eda0e;
+ }
+
 .card-footer {
-  
   background-color: #260442 !important;
-  font-size: 0.8rem;
-  color: rgb(220, 162, 238);
-  height: 2.2rem;
-  padding-bottom: 0.2rem;
-  padding-top: 0.2rem;
-  text-align: right;
-  padding-right: 0rem;
-  max-width: 100%;
-  min-width: 362px;
+  /* padding-left:3rem; */
+  padding-bottom: 0.5rem;
+  font-weight: 500;  
+  font-size: 0.9rem;
 }
 
 .card-footer > span {
- padding-right: 1rem;
+  padding-right: 1rem;
+ padding-bottom: 1rem;
  color: rgb(233, 235, 232);
  font-weight:  bolder; 
- font-size: 1rem;
+ font-size: 0.8rem;
  text-align: center !important;
-}
+/*  margin-top: -40px !important; */
+} 
 
 .prem {
   padding-right: 1rem;
@@ -117,12 +136,20 @@
  }
 
  .spacer {
-  height: 0.5rem;
- margin-bottom: 0rem;
+height: 0.5rem;
+ margin-bottom: 0;
  background-color: rgb(0,187,254);
  }
  .navtheme {
    background-color: purple !important;
+ }
+
+ .footer-align {
+
+  padding-inline-start: 2.5rem;
+  font-weight: 600;
+  padding-right:0.5rem;
+
  }
 
  @media (min-width: 576px) {

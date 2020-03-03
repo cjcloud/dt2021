@@ -20,7 +20,7 @@ const Navigation = () => {
 
                         <Nav.Link href='/'>Team Tables</Nav.Link>
                         <Nav.Link href='/managersummary'>Manager Summary</Nav.Link>
-                        <Nav.Link href='/information' bg="text-white">Info</Nav.Link>
+                        <Nav.Link href='/information' >Info</Nav.Link>
                     </Nav>
                 </Navbar>
             </container>

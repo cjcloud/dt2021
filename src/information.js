@@ -9,8 +9,8 @@ import Typography from '@material-ui/core/Typography';
 export default function SimpleCard() {
 
     return (
-        <Card >
-            <CardContent>
+        <Card className="infoCard" >
+            <CardContent className="infoCard">
                 <Typography className="info" color="textSecondary" align-text="left" gutterBottom>
                     <h2>Information</h2>
                 </Typography>
@@ -34,9 +34,9 @@ export default function SimpleCard() {
                         <li>Scroll down to find "add to Homescreen"</li>
                         <li>This will create an icon on your phone that you can use to access the app without having to enter the web address </li>
                     </ul>
-                    <ul>
-                        <img src={process.env.PUBLIC_URL + "/UDT Membersbadge.jpg"} style={{ width: 150, marginTop: -7 }} alt="badge" />
-                    </ul>
+
+                    <img className="imageCtr" src={process.env.PUBLIC_URL + "/UDT Members.svg"} style={{ width: 80, marginTop: -7 }} alt="badge" />
+
                 </Typography>
             </CardContent>
             <CardActions>

@@ -1,1 +1,2237 @@
-[{"managerId":1,"manager":"Anita Bennett","teamDetails":[{"playerId":37915,"playerDetails":{"playerName":"H. Lloris","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£2.8m","gwPts":0,"gwTotalPts":19}},{"playerId":122798,"playerDetails":{"playerName":"A. Robertson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":-2,"gwTotalPts":137}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":214590,"playerDetails":{"playerName":"A. Wan-Bissaka","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":0,"gwTotalPts":106}},{"playerId":101188,"playerDetails":{"playerName":"L. Digne","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":0,"gwTotalPts":93}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":95715,"playerDetails":{"playerName":"L. Moura","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£2.7m","gwPts":3,"gwTotalPts":84}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":92217,"playerDetails":{"playerName":"R. Firmino","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.3m","gwPts":0,"gwTotalPts":132}},{"playerId":205651,"playerDetails":{"playerName":"G. Jesus","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£5m","gwPts":0,"gwTotalPts":187}}]},{"managerId":2,"manager":"Clive Fidler","teamDetails":[{"playerId":38533,"playerDetails":{"playerName":"R. Patricio","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£1.7m","gwPts":-1,"gwTotalPts":68}},{"playerId":169187,"playerDetails":{"playerName":"T. Alexander-Arnold","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.1m","gwPts":-2,"gwTotalPts":176}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":122798,"playerDetails":{"playerName":"A. Robertson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":-2,"gwTotalPts":137}},{"playerId":95715,"playerDetails":{"playerName":"L. Moura","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£2.7m","gwPts":3,"gwTotalPts":84}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":176413,"playerDetails":{"playerName":"C. Pulisic","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3.6m","gwPts":0,"gwTotalPts":93}},{"playerId":173879,"playerDetails":{"playerName":"T. Abraham","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":0,"gwTotalPts":153}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}}]},{"managerId":3,"manager":"John Senior","teamDetails":[{"playerId":121160,"playerDetails":{"playerName":"Ederson","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£3.2m","gwPts":0,"gwTotalPts":75}},{"playerId":82263,"playerDetails":{"playerName":"M. Alonso","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3m","gwPts":17,"gwTotalPts":69}},{"playerId":41328,"playerDetails":{"playerName":"C. Azpilicueta","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3.3m","gwPts":2,"gwTotalPts":84}},{"playerId":146941,"playerDetails":{"playerName":"A. Laporte","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£4.6m","gwPts":0,"gwTotalPts":32}},{"playerId":165809,"playerDetails":{"playerName":"B. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.9m","gwPts":0,"gwTotalPts":103}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":176413,"playerDetails":{"playerName":"C. Pulisic","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3.6m","gwPts":0,"gwTotalPts":93}},{"playerId":102057,"playerDetails":{"playerName":"R. Jimenez","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£4.6m","gwPts":8,"gwTotalPts":173}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":205651,"playerDetails":{"playerName":"G. Jesus","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£5m","gwPts":0,"gwTotalPts":187}}]},{"managerId":4,"manager":"Dave Baldwin","teamDetails":[{"playerId":111234,"playerDetails":{"playerName":"J. Pickford","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£1.8m","gwPts":0,"gwTotalPts":46}},{"playerId":158534,"playerDetails":{"playerName":"K. Walker-Peters","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£2m","gwPts":0,"gwTotalPts":7}},{"playerId":122798,"playerDetails":{"playerName":"A. Robertson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":-2,"gwTotalPts":137}},{"playerId":97032,"playerDetails":{"playerName":"V. van Dijk","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.4m","gwPts":-2,"gwTotalPts":155}},{"playerId":180804,"playerDetails":{"playerName":"A. Tuanzebe","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£1.7m","gwPts":0,"gwTotalPts":31}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":110979,"playerDetails":{"playerName":"s. Mane","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":0,"gwTotalPts":190}},{"playerId":200617,"playerDetails":{"playerName":"D. James","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£1.8m","gwPts":0,"gwTotalPts":61}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}}]},{"managerId":5,"manager":"Chris Roberson","teamDetails":[{"playerId":111234,"playerDetails":{"playerName":"J. Pickford","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£1.8m","gwPts":0,"gwTotalPts":46}},{"playerId":135363,"playerDetails":{"playerName":"A. Christensen","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£1.5m","gwPts":-2,"gwTotalPts":4}},{"playerId":172850,"playerDetails":{"playerName":"B. Chilwell","playerClub":"Leicester"},"gwData":{"gwNumber":27,"playerValue":"£3.3m","gwPts":0,"gwTotalPts":81}},{"playerId":94147,"playerDetails":{"playerName":"C. Coady","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£2m","gwPts":-1,"gwTotalPts":57}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":110979,"playerDetails":{"playerName":"s. Mane","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":0,"gwTotalPts":190}},{"playerId":165809,"playerDetails":{"playerName":"B. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.9m","gwPts":0,"gwTotalPts":103}},{"playerId":184341,"playerDetails":{"playerName":"M. Mount","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£1.9m","gwPts":3,"gwTotalPts":76}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":37572,"playerDetails":{"playerName":"S. Aguero","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":8,"gwTotalPts":174}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}}]},{"managerId":6,"manager":"Darren Moon","teamDetails":[{"playerId":121160,"playerDetails":{"playerName":"Ederson","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£3.2m","gwPts":0,"gwTotalPts":75}},{"playerId":97032,"playerDetails":{"playerName":"V. van Dijk","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.4m","gwPts":-2,"gwTotalPts":155}},{"playerId":82263,"playerDetails":{"playerName":"M. Alonso","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3m","gwPts":17,"gwTotalPts":69}},{"playerId":101188,"playerDetails":{"playerName":"L. Digne","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":0,"gwTotalPts":93}},{"playerId":180804,"playerDetails":{"playerName":"A. Tuanzebe","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£1.7m","gwPts":0,"gwTotalPts":31}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":195735,"playerDetails":{"playerName":"N. Pepe","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":0,"gwTotalPts":116}},{"playerId":231372,"playerDetails":{"playerName":"T. Ndombele","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£1.9m","gwPts":0,"gwTotalPts":43}},{"playerId":37572,"playerDetails":{"playerName":"S. Aguero","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":8,"gwTotalPts":174}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":92217,"playerDetails":{"playerName":"R. Firmino","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.3m","gwPts":0,"gwTotalPts":132}}]},{"managerId":7,"manager":"Treena Baldwin","teamDetails":[{"playerId":116535,"playerDetails":{"playerName":"Alisson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":-2,"gwTotalPts":69}},{"playerId":41328,"playerDetails":{"playerName":"C. Azpilicueta","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3.3m","gwPts":2,"gwTotalPts":84}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":214590,"playerDetails":{"playerName":"A. Wan-Bissaka","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":0,"gwTotalPts":106}},{"playerId":103914,"playerDetails":{"playerName":"C. Taylor","playerClub":"Burnley"},"gwData":{"gwNumber":27,"playerValue":"£2.5m","gwPts":5,"gwTotalPts":55}},{"playerId":165809,"playerDetails":{"playerName":"B. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.9m","gwPts":0,"gwTotalPts":103}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":195735,"playerDetails":{"playerName":"N. Pepe","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":0,"gwTotalPts":116}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":37572,"playerDetails":{"playerName":"S. Aguero","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":8,"gwTotalPts":174}},{"playerId":92217,"playerDetails":{"playerName":"R. Firmino","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.3m","gwPts":0,"gwTotalPts":132}}]},{"managerId":8,"manager":"Harriet Fidler","teamDetails":[{"playerId":116535,"playerDetails":{"playerName":"Alisson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":-2,"gwTotalPts":69}},{"playerId":169187,"playerDetails":{"playerName":"T. Alexander-Arnold","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.1m","gwPts":-2,"gwTotalPts":176}},{"playerId":97032,"playerDetails":{"playerName":"V. van Dijk","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.4m","gwPts":-2,"gwTotalPts":155}},{"playerId":90585,"playerDetails":{"playerName":"W. Boly","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":-2,"gwTotalPts":87}},{"playerId":110979,"playerDetails":{"playerName":"s. Mane","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":0,"gwTotalPts":190}},{"playerId":220566,"playerDetails":{"playerName":"Rodri","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.1m","gwPts":7,"gwTotalPts":90}},{"playerId":153133,"playerDetails":{"playerName":"A. Iwobi","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£1.8m","gwPts":0,"gwTotalPts":33}},{"playerId":74208,"playerDetails":{"playerName":"P. Pogba","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":0,"gwTotalPts":10}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":176297,"playerDetails":{"playerName":"M. Rashford","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£4.8m","gwPts":0,"gwTotalPts":186}}]},{"managerId":10,"manager":"Nathan Corden","teamDetails":[{"playerId":116535,"playerDetails":{"playerName":"Alisson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":-2,"gwTotalPts":69}},{"playerId":97032,"playerDetails":{"playerName":"V. van Dijk","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.4m","gwPts":-2,"gwTotalPts":155}},{"playerId":146941,"playerDetails":{"playerName":"A. Laporte","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£4.6m","gwPts":0,"gwTotalPts":32}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":231372,"playerDetails":{"playerName":"T. Ndombele","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£1.9m","gwPts":0,"gwTotalPts":43}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":182539,"playerDetails":{"playerName":"D. Ceballos","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£2.2m","gwPts":0,"gwTotalPts":32}},{"playerId":176413,"playerDetails":{"playerName":"C. Pulisic","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3.6m","gwPts":0,"gwTotalPts":93}},{"playerId":209353,"playerDetails":{"playerName":"P. Cutrone","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£1.7m","gwPts":0,"gwTotalPts":22}},{"playerId":37572,"playerDetails":{"playerName":"S. Aguero","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":8,"gwTotalPts":174}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}}]},{"managerId":11,"manager":"Trevor Sallis","teamDetails":[{"playerId":116535,"playerDetails":{"playerName":"Alisson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":-2,"gwTotalPts":69}},{"playerId":146941,"playerDetails":{"playerName":"A. Laporte","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£4.6m","gwPts":0,"gwTotalPts":32}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":97032,"playerDetails":{"playerName":"V. van Dijk","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.4m","gwPts":-2,"gwTotalPts":155}},{"playerId":169187,"playerDetails":{"playerName":"T. Alexander-Arnold","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.1m","gwPts":-2,"gwTotalPts":176}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":55422,"playerDetails":{"playerName":"G. Sigurdsson","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£1.9m","gwPts":0,"gwTotalPts":34}},{"playerId":37605,"playerDetails":{"playerName":"M. Ozil","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£1.8m","gwPts":0,"gwTotalPts":23}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}},{"playerId":176297,"playerDetails":{"playerName":"M. Rashford","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£4.8m","gwPts":0,"gwTotalPts":186}},{"playerId":212319,"playerDetails":{"playerName":"Richarlison","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£4.6m","gwPts":0,"gwTotalPts":137}}]},{"managerId":11,"manager":"Grace Roberson","teamDetails":[{"playerId":116535,"playerDetails":{"playerName":"Alisson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":-2,"gwTotalPts":69}},{"playerId":97032,"playerDetails":{"playerName":"V. van Dijk","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£5.4m","gwPts":-2,"gwTotalPts":155}},{"playerId":82263,"playerDetails":{"playerName":"M. Alonso","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3m","gwPts":17,"gwTotalPts":69}},{"playerId":114128,"playerDetails":{"playerName":"J. Castro","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£2.6m","gwPts":0,"gwTotalPts":88}},{"playerId":61366,"playerDetails":{"playerName":"K. De Bruyne","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£6.2m","gwPts":0,"gwTotalPts":195}},{"playerId":47431,"playerDetails":{"playerName":"Willian","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":0,"gwTotalPts":113}},{"playerId":109322,"playerDetails":{"playerName":"J. Lingard","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£0.9m","gwPts":0,"gwTotalPts":18}},{"playerId":20664,"playerDetails":{"playerName":"D. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£3.2m","gwPts":0,"gwTotalPts":67}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":205651,"playerDetails":{"playerName":"G. Jesus","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£5m","gwPts":0,"gwTotalPts":187}}]},{"managerId":12,"manager":"Daniel Cox","teamDetails":[{"playerId":38533,"playerDetails":{"playerName":"R. Patricio","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£1.7m","gwPts":-1,"gwTotalPts":68}},{"playerId":106760,"playerDetails":{"playerName":"L. Shaw","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£2.5m","gwPts":-1,"gwTotalPts":67}},{"playerId":173904,"playerDetails":{"playerName":"D. Sanchez","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£1.5m","gwPts":-2,"gwTotalPts":33}},{"playerId":80226,"playerDetails":{"playerName":"S. Aurier","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£3.6m","gwPts":6,"gwTotalPts":100}},{"playerId":195735,"playerDetails":{"playerName":"N. Pepe","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":0,"gwTotalPts":116}},{"playerId":110979,"playerDetails":{"playerName":"s. Mane","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":0,"gwTotalPts":190}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":165809,"playerDetails":{"playerName":"B. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.9m","gwPts":0,"gwTotalPts":103}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}}]},{"managerId":13,"manager":"Mick Cox","teamDetails":[{"playerId":80201,"playerDetails":{"playerName":"B. Leno","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£2.3m","gwPts":0,"gwTotalPts":56}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":171287,"playerDetails":{"playerName":"J. Gomez","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":0,"gwTotalPts":97}},{"playerId":82263,"playerDetails":{"playerName":"M. Alonso","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£3m","gwPts":17,"gwTotalPts":69}},{"playerId":195735,"playerDetails":{"playerName":"N. Pepe","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":0,"gwTotalPts":116}},{"playerId":165809,"playerDetails":{"playerName":"B. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.9m","gwPts":0,"gwTotalPts":103}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":15157,"playerDetails":{"playerName":"J. Milner","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£2.4m","gwPts":0,"gwTotalPts":50}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":54694,"playerDetails":{"playerName":"P. Aubameyang","playerClub":"Arsenal"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":0,"gwTotalPts":148}}]},{"managerId":15,"manager":"Chris Burbage","teamDetails":[{"playerId":38533,"playerDetails":{"playerName":"R. Patricio","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£1.7m","gwPts":-1,"gwTotalPts":68}},{"playerId":95658,"playerDetails":{"playerName":"H. Maguire","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£3.8m","gwPts":2,"gwTotalPts":166}},{"playerId":55909,"playerDetails":{"playerName":"C. Smalling","playerClub":"Man Utd"},"gwData":{"gwNumber":27,"playerValue":"£2.5m","gwPts":0,"gwTotalPts":0}},{"playerId":40146,"playerDetails":{"playerName":"R. Bertrand","playerClub":"Southampton"},"gwData":{"gwNumber":27,"playerValue":"£1.2m","gwPts":-2,"gwTotalPts":13}},{"playerId":171129,"playerDetails":{"playerName":"Diego Rico","playerClub":"Bournemouth"},"gwData":{"gwNumber":27,"playerValue":"£2.6m","gwPts":0,"gwTotalPts":64}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":110979,"playerDetails":{"playerName":"s. Mane","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":0,"gwTotalPts":190}},{"playerId":165809,"playerDetails":{"playerName":"B. Silva","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.9m","gwPts":0,"gwTotalPts":103}},{"playerId":37572,"playerDetails":{"playerName":"S. Aguero","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":8,"gwTotalPts":174}},{"playerId":78830,"playerDetails":{"playerName":"H. Kane","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£7.5m","gwPts":0,"gwTotalPts":162}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}}]},{"managerId":14,"manager":"Ash Keahy","teamDetails":[{"playerId":116535,"playerDetails":{"playerName":"Alisson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4m","gwPts":-2,"gwTotalPts":69}},{"playerId":58621,"playerDetails":{"playerName":"K. Walker","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£2.8m","gwPts":0,"gwTotalPts":74}},{"playerId":90585,"playerDetails":{"playerName":"W. Boly","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£3.4m","gwPts":-2,"gwTotalPts":87}},{"playerId":122798,"playerDetails":{"playerName":"A. Robertson","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£4.7m","gwPts":-2,"gwTotalPts":137}},{"playerId":95715,"playerDetails":{"playerName":"L. Moura","playerClub":"Spurs"},"gwData":{"gwNumber":27,"playerValue":"£2.7m","gwPts":3,"gwTotalPts":84}},{"playerId":103955,"playerDetails":{"playerName":"R. Sterling","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7m","gwPts":-1,"gwTotalPts":187}},{"playerId":55422,"playerDetails":{"playerName":"G. Sigurdsson","playerClub":"Everton"},"gwData":{"gwNumber":27,"playerValue":"£1.9m","gwPts":0,"gwTotalPts":34}},{"playerId":88894,"playerDetails":{"playerName":"R. Barkley","playerClub":"Chelsea"},"gwData":{"gwNumber":27,"playerValue":"£2.1m","gwPts":0,"gwTotalPts":29}},{"playerId":37572,"playerDetails":{"playerName":"S. Aguero","playerClub":"Man City"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":8,"gwTotalPts":174}},{"playerId":102057,"playerDetails":{"playerName":"R. Jimenez","playerClub":"Wolves"},"gwData":{"gwNumber":27,"playerValue":"£4.6m","gwPts":8,"gwTotalPts":173}},{"playerId":118748,"playerDetails":{"playerName":"M. Salah","playerClub":"Liverpool"},"gwData":{"gwNumber":27,"playerValue":"£7.1m","gwPts":0,"gwTotalPts":200}}]}]
+[
+    {
+        "managerId": 1,
+        "manager": "Anita Bennett",
+        "teamDetails": [
+            {
+                "playerId": 37915,
+                "playerDetails": {
+                    "playerName": "H. Lloris",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 19
+                }
+            },
+            {
+                "playerId": 122798,
+                "playerDetails": {
+                    "playerName": "A. Robertson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": -2,
+                    "gwTotalPts": 137
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 214590,
+                "playerDetails": {
+                    "playerName": "A. Wan-Bissaka",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 106
+                }
+            },
+            {
+                "playerId": 101188,
+                "playerDetails": {
+                    "playerName": "L. Digne",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 93
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 95715,
+                "playerDetails": {
+                    "playerName": "L. Moura",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.7m",
+                    "gwPts": 3,
+                    "gwTotalPts": 84
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 92217,
+                "playerDetails": {
+                    "playerName": "R. Firmino",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.3m",
+                    "gwPts": 0,
+                    "gwTotalPts": 132
+                }
+            },
+            {
+                "playerId": 205651,
+                "playerDetails": {
+                    "playerName": "G. Jesus",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 187
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 2,
+        "manager": "Clive Fidler",
+        "teamDetails": [
+            {
+                "playerId": 38533,
+                "playerDetails": {
+                    "playerName": "R. Patricio",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 68
+                }
+            },
+            {
+                "playerId": 169187,
+                "playerDetails": {
+                    "playerName": "T. Alexander-Arnold",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.1m",
+                    "gwPts": -2,
+                    "gwTotalPts": 176
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 122798,
+                "playerDetails": {
+                    "playerName": "A. Robertson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": -2,
+                    "gwTotalPts": 137
+                }
+            },
+            {
+                "playerId": 95715,
+                "playerDetails": {
+                    "playerName": "L. Moura",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.7m",
+                    "gwPts": 3,
+                    "gwTotalPts": 84
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 176413,
+                "playerDetails": {
+                    "playerName": "C. Pulisic",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 93
+                }
+            },
+            {
+                "playerId": 173879,
+                "playerDetails": {
+                    "playerName": "T. Abraham",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 153
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 3,
+        "manager": "John Senior",
+        "teamDetails": [
+            {
+                "playerId": 121160,
+                "playerDetails": {
+                    "playerName": "Ederson",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 75
+                }
+            },
+            {
+                "playerId": 82263,
+                "playerDetails": {
+                    "playerName": "M. Alonso",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3m",
+                    "gwPts": 17,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 41328,
+                "playerDetails": {
+                    "playerName": "C. Azpilicueta",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.3m",
+                    "gwPts": 2,
+                    "gwTotalPts": 84
+                }
+            },
+            {
+                "playerId": 146941,
+                "playerDetails": {
+                    "playerName": "A. Laporte",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 32
+                }
+            },
+            {
+                "playerId": 165809,
+                "playerDetails": {
+                    "playerName": "B. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 103
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 176413,
+                "playerDetails": {
+                    "playerName": "C. Pulisic",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 93
+                }
+            },
+            {
+                "playerId": 102057,
+                "playerDetails": {
+                    "playerName": "R. Jimenez",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.6m",
+                    "gwPts": 8,
+                    "gwTotalPts": 173
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 205651,
+                "playerDetails": {
+                    "playerName": "G. Jesus",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 187
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 4,
+        "manager": "Dave Baldwin",
+        "teamDetails": [
+            {
+                "playerId": 111234,
+                "playerDetails": {
+                    "playerName": "J. Pickford",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 46
+                }
+            },
+            {
+                "playerId": 158534,
+                "playerDetails": {
+                    "playerName": "K. Walker-Peters",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 7
+                }
+            },
+            {
+                "playerId": 122798,
+                "playerDetails": {
+                    "playerName": "A. Robertson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": -2,
+                    "gwTotalPts": 137
+                }
+            },
+            {
+                "playerId": 97032,
+                "playerDetails": {
+                    "playerName": "V. van Dijk",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 155
+                }
+            },
+            {
+                "playerId": 180804,
+                "playerDetails": {
+                    "playerName": "A. Tuanzebe",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 31
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 110979,
+                "playerDetails": {
+                    "playerName": "s. Mane",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 190
+                }
+            },
+            {
+                "playerId": 200617,
+                "playerDetails": {
+                    "playerName": "D. James",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 61
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 5,
+        "manager": "Chris Roberson",
+        "teamDetails": [
+            {
+                "playerId": 111234,
+                "playerDetails": {
+                    "playerName": "J. Pickford",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 46
+                }
+            },
+            {
+                "playerId": 135363,
+                "playerDetails": {
+                    "playerName": "A. Christensen",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.5m",
+                    "gwPts": -2,
+                    "gwTotalPts": 4
+                }
+            },
+            {
+                "playerId": 172850,
+                "playerDetails": {
+                    "playerName": "B. Chilwell",
+                    "playerClub": "Leicester"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.3m",
+                    "gwPts": 0,
+                    "gwTotalPts": 81
+                }
+            },
+            {
+                "playerId": 94147,
+                "playerDetails": {
+                    "playerName": "C. Coady",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2m",
+                    "gwPts": -1,
+                    "gwTotalPts": 57
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 110979,
+                "playerDetails": {
+                    "playerName": "s. Mane",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 190
+                }
+            },
+            {
+                "playerId": 165809,
+                "playerDetails": {
+                    "playerName": "B. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 103
+                }
+            },
+            {
+                "playerId": 184341,
+                "playerDetails": {
+                    "playerName": "M. Mount",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.9m",
+                    "gwPts": 3,
+                    "gwTotalPts": 76
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 37572,
+                "playerDetails": {
+                    "playerName": "S. Aguero",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 8,
+                    "gwTotalPts": 174
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 6,
+        "manager": "Darren Moon",
+        "teamDetails": [
+            {
+                "playerId": 121160,
+                "playerDetails": {
+                    "playerName": "Ederson",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 75
+                }
+            },
+            {
+                "playerId": 97032,
+                "playerDetails": {
+                    "playerName": "V. van Dijk",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 155
+                }
+            },
+            {
+                "playerId": 82263,
+                "playerDetails": {
+                    "playerName": "M. Alonso",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3m",
+                    "gwPts": 17,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 101188,
+                "playerDetails": {
+                    "playerName": "L. Digne",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 93
+                }
+            },
+            {
+                "playerId": 180804,
+                "playerDetails": {
+                    "playerName": "A. Tuanzebe",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 31
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 195735,
+                "playerDetails": {
+                    "playerName": "N. Pepe",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 116
+                }
+            },
+            {
+                "playerId": 231372,
+                "playerDetails": {
+                    "playerName": "T. Ndombele",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 43
+                }
+            },
+            {
+                "playerId": 37572,
+                "playerDetails": {
+                    "playerName": "S. Aguero",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 8,
+                    "gwTotalPts": 174
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 92217,
+                "playerDetails": {
+                    "playerName": "R. Firmino",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.3m",
+                    "gwPts": 0,
+                    "gwTotalPts": 132
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 7,
+        "manager": "Treena Baldwin",
+        "teamDetails": [
+            {
+                "playerId": 116535,
+                "playerDetails": {
+                    "playerName": "Alisson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 41328,
+                "playerDetails": {
+                    "playerName": "C. Azpilicueta",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.3m",
+                    "gwPts": 2,
+                    "gwTotalPts": 84
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 214590,
+                "playerDetails": {
+                    "playerName": "A. Wan-Bissaka",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 106
+                }
+            },
+            {
+                "playerId": 103914,
+                "playerDetails": {
+                    "playerName": "C. Taylor",
+                    "playerClub": "Burnley"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.5m",
+                    "gwPts": 5,
+                    "gwTotalPts": 55
+                }
+            },
+            {
+                "playerId": 165809,
+                "playerDetails": {
+                    "playerName": "B. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 103
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 195735,
+                "playerDetails": {
+                    "playerName": "N. Pepe",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 116
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 37572,
+                "playerDetails": {
+                    "playerName": "S. Aguero",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 8,
+                    "gwTotalPts": 174
+                }
+            },
+            {
+                "playerId": 92217,
+                "playerDetails": {
+                    "playerName": "R. Firmino",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.3m",
+                    "gwPts": 0,
+                    "gwTotalPts": 132
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 8,
+        "manager": "Harriet Fidler",
+        "teamDetails": [
+            {
+                "playerId": 116535,
+                "playerDetails": {
+                    "playerName": "Alisson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 169187,
+                "playerDetails": {
+                    "playerName": "T. Alexander-Arnold",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.1m",
+                    "gwPts": -2,
+                    "gwTotalPts": 176
+                }
+            },
+            {
+                "playerId": 97032,
+                "playerDetails": {
+                    "playerName": "V. van Dijk",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 155
+                }
+            },
+            {
+                "playerId": 90585,
+                "playerDetails": {
+                    "playerName": "W. Boly",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 87
+                }
+            },
+            {
+                "playerId": 110979,
+                "playerDetails": {
+                    "playerName": "s. Mane",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 190
+                }
+            },
+            {
+                "playerId": 220566,
+                "playerDetails": {
+                    "playerName": "Rodri",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.1m",
+                    "gwPts": 7,
+                    "gwTotalPts": 90
+                }
+            },
+            {
+                "playerId": 153133,
+                "playerDetails": {
+                    "playerName": "A. Iwobi",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 33
+                }
+            },
+            {
+                "playerId": 74208,
+                "playerDetails": {
+                    "playerName": "P. Pogba",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 10
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 176297,
+                "playerDetails": {
+                    "playerName": "M. Rashford",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 186
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 10,
+        "manager": "Nathan Corden",
+        "teamDetails": [
+            {
+                "playerId": 116535,
+                "playerDetails": {
+                    "playerName": "Alisson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 97032,
+                "playerDetails": {
+                    "playerName": "V. van Dijk",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 155
+                }
+            },
+            {
+                "playerId": 146941,
+                "playerDetails": {
+                    "playerName": "A. Laporte",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 32
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 231372,
+                "playerDetails": {
+                    "playerName": "T. Ndombele",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 43
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 182539,
+                "playerDetails": {
+                    "playerName": "D. Ceballos",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 32
+                }
+            },
+            {
+                "playerId": 176413,
+                "playerDetails": {
+                    "playerName": "C. Pulisic",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 93
+                }
+            },
+            {
+                "playerId": 209353,
+                "playerDetails": {
+                    "playerName": "P. Cutrone",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 22
+                }
+            },
+            {
+                "playerId": 37572,
+                "playerDetails": {
+                    "playerName": "S. Aguero",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 8,
+                    "gwTotalPts": 174
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 11,
+        "manager": "Trevor Sallis",
+        "teamDetails": [
+            {
+                "playerId": 116535,
+                "playerDetails": {
+                    "playerName": "Alisson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 146941,
+                "playerDetails": {
+                    "playerName": "A. Laporte",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 32
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 97032,
+                "playerDetails": {
+                    "playerName": "V. van Dijk",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 155
+                }
+            },
+            {
+                "playerId": 169187,
+                "playerDetails": {
+                    "playerName": "T. Alexander-Arnold",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.1m",
+                    "gwPts": -2,
+                    "gwTotalPts": 176
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 55422,
+                "playerDetails": {
+                    "playerName": "G. Sigurdsson",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 34
+                }
+            },
+            {
+                "playerId": 37605,
+                "playerDetails": {
+                    "playerName": "M. Ozil",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 23
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            },
+            {
+                "playerId": 176297,
+                "playerDetails": {
+                    "playerName": "M. Rashford",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 186
+                }
+            },
+            {
+                "playerId": 212319,
+                "playerDetails": {
+                    "playerName": "Richarlison",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 137
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 11,
+        "manager": "Grace Roberson",
+        "teamDetails": [
+            {
+                "playerId": 116535,
+                "playerDetails": {
+                    "playerName": "Alisson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 97032,
+                "playerDetails": {
+                    "playerName": "V. van Dijk",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 155
+                }
+            },
+            {
+                "playerId": 82263,
+                "playerDetails": {
+                    "playerName": "M. Alonso",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3m",
+                    "gwPts": 17,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 114128,
+                "playerDetails": {
+                    "playerName": "J. Castro",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 88
+                }
+            },
+            {
+                "playerId": 61366,
+                "playerDetails": {
+                    "playerName": "K. De Bruyne",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£6.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 195
+                }
+            },
+            {
+                "playerId": 47431,
+                "playerDetails": {
+                    "playerName": "Willian",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 113
+                }
+            },
+            {
+                "playerId": 109322,
+                "playerDetails": {
+                    "playerName": "J. Lingard",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£0.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 18
+                }
+            },
+            {
+                "playerId": 20664,
+                "playerDetails": {
+                    "playerName": "D. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.2m",
+                    "gwPts": 0,
+                    "gwTotalPts": 67
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 205651,
+                "playerDetails": {
+                    "playerName": "G. Jesus",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 187
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 12,
+        "manager": "Daniel Cox",
+        "teamDetails": [
+            {
+                "playerId": 38533,
+                "playerDetails": {
+                    "playerName": "R. Patricio",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 68
+                }
+            },
+            {
+                "playerId": 106760,
+                "playerDetails": {
+                    "playerName": "L. Shaw",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.5m",
+                    "gwPts": -1,
+                    "gwTotalPts": 67
+                }
+            },
+            {
+                "playerId": 173904,
+                "playerDetails": {
+                    "playerName": "D. Sanchez",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.5m",
+                    "gwPts": -2,
+                    "gwTotalPts": 33
+                }
+            },
+            {
+                "playerId": 80226,
+                "playerDetails": {
+                    "playerName": "S. Aurier",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.6m",
+                    "gwPts": 6,
+                    "gwTotalPts": 100
+                }
+            },
+            {
+                "playerId": 195735,
+                "playerDetails": {
+                    "playerName": "N. Pepe",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 116
+                }
+            },
+            {
+                "playerId": 110979,
+                "playerDetails": {
+                    "playerName": "s. Mane",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 190
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 165809,
+                "playerDetails": {
+                    "playerName": "B. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 103
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 13,
+        "manager": "Mick Cox",
+        "teamDetails": [
+            {
+                "playerId": 80201,
+                "playerDetails": {
+                    "playerName": "B. Leno",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.3m",
+                    "gwPts": 0,
+                    "gwTotalPts": 56
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 171287,
+                "playerDetails": {
+                    "playerName": "J. Gomez",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 97
+                }
+            },
+            {
+                "playerId": 82263,
+                "playerDetails": {
+                    "playerName": "M. Alonso",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3m",
+                    "gwPts": 17,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 195735,
+                "playerDetails": {
+                    "playerName": "N. Pepe",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 116
+                }
+            },
+            {
+                "playerId": 165809,
+                "playerDetails": {
+                    "playerName": "B. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 103
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 15157,
+                "playerDetails": {
+                    "playerName": "J. Milner",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.4m",
+                    "gwPts": 0,
+                    "gwTotalPts": 50
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 54694,
+                "playerDetails": {
+                    "playerName": "P. Aubameyang",
+                    "playerClub": "Arsenal"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 148
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 15,
+        "manager": "Chris Burbage",
+        "teamDetails": [
+            {
+                "playerId": 38533,
+                "playerDetails": {
+                    "playerName": "R. Patricio",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 68
+                }
+            },
+            {
+                "playerId": 95658,
+                "playerDetails": {
+                    "playerName": "H. Maguire",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.8m",
+                    "gwPts": 2,
+                    "gwTotalPts": 166
+                }
+            },
+            {
+                "playerId": 55909,
+                "playerDetails": {
+                    "playerName": "C. Smalling",
+                    "playerClub": "Man Utd"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 0
+                }
+            },
+            {
+                "playerId": 40146,
+                "playerDetails": {
+                    "playerName": "R. Bertrand",
+                    "playerClub": "Southampton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.2m",
+                    "gwPts": -2,
+                    "gwTotalPts": 13
+                }
+            },
+            {
+                "playerId": 171129,
+                "playerDetails": {
+                    "playerName": "Diego Rico",
+                    "playerClub": "Bournemouth"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.6m",
+                    "gwPts": 0,
+                    "gwTotalPts": 64
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 110979,
+                "playerDetails": {
+                    "playerName": "s. Mane",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": 0,
+                    "gwTotalPts": 190
+                }
+            },
+            {
+                "playerId": 165809,
+                "playerDetails": {
+                    "playerName": "B. Silva",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 103
+                }
+            },
+            {
+                "playerId": 37572,
+                "playerDetails": {
+                    "playerName": "S. Aguero",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 8,
+                    "gwTotalPts": 174
+                }
+            },
+            {
+                "playerId": 78830,
+                "playerDetails": {
+                    "playerName": "H. Kane",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.5m",
+                    "gwPts": 0,
+                    "gwTotalPts": 162
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            }
+        ]
+    },
+    {
+        "managerId": 14,
+        "manager": "Ash Keahy",
+        "teamDetails": [
+            {
+                "playerId": 116535,
+                "playerDetails": {
+                    "playerName": "Alisson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 69
+                }
+            },
+            {
+                "playerId": 58621,
+                "playerDetails": {
+                    "playerName": "K. Walker",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.8m",
+                    "gwPts": 0,
+                    "gwTotalPts": 74
+                }
+            },
+            {
+                "playerId": 90585,
+                "playerDetails": {
+                    "playerName": "W. Boly",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£3.4m",
+                    "gwPts": -2,
+                    "gwTotalPts": 87
+                }
+            },
+            {
+                "playerId": 122798,
+                "playerDetails": {
+                    "playerName": "A. Robertson",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.7m",
+                    "gwPts": -2,
+                    "gwTotalPts": 137
+                }
+            },
+            {
+                "playerId": 95715,
+                "playerDetails": {
+                    "playerName": "L. Moura",
+                    "playerClub": "Spurs"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.7m",
+                    "gwPts": 3,
+                    "gwTotalPts": 84
+                }
+            },
+            {
+                "playerId": 103955,
+                "playerDetails": {
+                    "playerName": "R. Sterling",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7m",
+                    "gwPts": -1,
+                    "gwTotalPts": 187
+                }
+            },
+            {
+                "playerId": 55422,
+                "playerDetails": {
+                    "playerName": "G. Sigurdsson",
+                    "playerClub": "Everton"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£1.9m",
+                    "gwPts": 0,
+                    "gwTotalPts": 34
+                }
+            },
+            {
+                "playerId": 88894,
+                "playerDetails": {
+                    "playerName": "R. Barkley",
+                    "playerClub": "Chelsea"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£2.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 29
+                }
+            },
+            {
+                "playerId": 37572,
+                "playerDetails": {
+                    "playerName": "S. Aguero",
+                    "playerClub": "Man City"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 8,
+                    "gwTotalPts": 174
+                }
+            },
+            {
+                "playerId": 102057,
+                "playerDetails": {
+                    "playerName": "R. Jimenez",
+                    "playerClub": "Wolves"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£4.6m",
+                    "gwPts": 8,
+                    "gwTotalPts": 173
+                }
+            },
+            {
+                "playerId": 118748,
+                "playerDetails": {
+                    "playerName": "M. Salah",
+                    "playerClub": "Liverpool"
+                },
+                "gwData": {
+                    "gwNumber": 27,
+                    "playerValue": "£7.1m",
+                    "gwPts": 0,
+                    "gwTotalPts": 200
+                }
+            }
+        ]
+    }
+]

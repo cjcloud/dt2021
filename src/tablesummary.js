@@ -39,8 +39,8 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
     const result = (source) => {
 
         return (
-            <div class="jumbotron tbl-summary">
-                <span id="container"><h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6></span>
+            <div class="container tbl-summary">
+                <h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6>
 
                 <table class="mx-auto table table-bordered table-striped table-summary" >
                     <TableHead />
