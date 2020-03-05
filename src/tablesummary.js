@@ -3,13 +3,23 @@ import React from 'react'
 
 /* This app builds the manager summary table to display the weekly rankings of the managers */
 
-const TableHead = () => {
+const TableHead = (data) => {
+
+    console.log(data)
+
+    let datastring = JSON.stringify(data)
+    console.log(datastring)
+
+    let dateStr = datastring
+
+    let dateLast = dateStr.slice(9, 27);
+
 
     return (
 
         <thead className="prem">
             <tr>
-                <th>Position Last</th>
+                <th>Position as of Previous Update </th>
                 <th>Position Now</th>
                 <th>Manager Name</th>
                 <th>Total Pts</th>
@@ -43,7 +53,7 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
                 <h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6>
 
                 <table class="mx-auto table table-bordered table-striped table-summary" >
-                    <TableHead />
+                    <TableHead data={dateLastUpdated} />
                     <tbody >
                         <TableRow rowData={source} />
                     </tbody>
