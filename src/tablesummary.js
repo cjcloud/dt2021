@@ -19,7 +19,7 @@ const TableHead = (data) => {
 
         <thead className="prem">
             <tr>
-                <th>Position as of Previous Update </th>
+                <th>Previous Update </th>
                 <th>Position Now</th>
                 <th>Manager Name</th>
                 <th>Total Pts</th>

@@ -83,7 +83,7 @@ const LatestTeamTable = (managerObj1) => {
                         </td>  <td>  <span class="footer-align"> <span class="cf-grn" >Season Points = </span>{playertotalpts}</span></td></tr>
                         </div>
                     </div>
-                    <div className="spacer"></div>
+
 
                 </div>
 
@@ -95,10 +95,17 @@ const LatestTeamTable = (managerObj1) => {
 
 const TeamTable = (managers, dateLastUpdated) =>
     <div>
-        <span class="guttertop">
-            <h3>Team Tables</h3>
-            <h6>Last Updated: {dateLastUpdated} </h6></span>
-        <span><p class="smalltxt">GW points are calculated from Fri to Fri</p></span>
+        <div class="container banner card card-body h-100 justify-content-left">
+            <p> <img src={process.env.PUBLIC_URL + "/UDT Members.svg"} alt="DT" style={{ width: 60 }}></img>
+                <h3>Team Tables</h3>
+                <h6>Last Updated: {dateLastUpdated} </h6>
+                <span>
+                    <p class="smalltxt">GW points are calculated from Fri to Fri</p>
+                </span>
+            </p>
+
+        </div>
+
         <GridList cellHeight={360} cols={3}>
 
             <LatestTeamTable managers={managers} />

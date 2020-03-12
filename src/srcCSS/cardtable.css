@@ -1,13 +1,9 @@
 span > p {
-  
+  display: block !important;
   font-size: 0.7rem !important;
-  text-align: left !important;
   padding-left: 0.5rem;
 }
-span > h3 {
-  margin-top: 0.5rem;
-  padding-top: 0.5rem;
-}
+
 
 .card > .table {
   border-right: 2px;
@@ -87,16 +83,32 @@ span > h3 {
 }
 
 .card {
-   margin-top: 0.8rem !important;
+ 
+   margin-top: 0.8rem;
   max-width: 1000px;
     min-width: 362px;
     background-color: #0eda0e !important;
     border:none;
 }
 
+.banner {
+  min-width: 100% !important;
+  margin-top: 0rem;
+   background-color:#260442 !important;
+   background-image: linear-gradient(to bottom right, #6b06a5, #260442);
+   border:none;
+   border-radius: 0.2rem;
+
+   color: whitesmoke;
+}
+
+.banner img{
+  float: left !important;
+}
+
 .bf-500 {
  font-weight: 500;
- font-size: 0.9rem;
+ font-size: 0.85rem;
 color: rgb(224, 226, 224);
 }
 

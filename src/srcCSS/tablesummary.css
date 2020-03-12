@@ -1,8 +1,8 @@
 .table-summary {
     max-width: 550px;
    
-background: linear-gradient(90deg, rgba(235, 120, 12, 0.984) 0%, rgb(255, 166, 0) 100%);
-    background-color: hsl(24, 100%, 50%);
+background: linear-gradient(90deg, rgba(118, 241, 87, 0.984) 0%, rgb(113, 236, 41) 100%);
+    background-color:rgb(113, 236, 41);
   }
 
   .td-number{
@@ -27,3 +27,14 @@ background: linear-gradient(90deg, rgba(235, 120, 12, 0.984) 0%, rgb(255, 166, 0
     margin: 0 !important;
 
 }
+
+@media (max-width: 575.98px) { 
+
+        .tbl-summary { 
+                align-items: center;
+            }
+            
+        .prem th {
+            vertical-align: middle !important;
+        }
+ }
