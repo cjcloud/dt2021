@@ -50,7 +50,7 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
 
         return (
             <div class="container tbl-summary">
-                <h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6>
+                <p class="pagetitle"><h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6></p>
 
                 <table class="mx-auto table table-bordered table-striped table-summary" >
                     <TableHead data={dateLastUpdated} />

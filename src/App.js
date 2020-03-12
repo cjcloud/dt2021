@@ -3,7 +3,6 @@ import './srcCSS/App.css';
 import './srcCSS/cardtable.css';
 import './srcCSS/tablesummary.css'
 import './srcCSS/information.css'
-
 import TeamTable from './teamtable';
 import ManagerSummaryTable from './tablesummary';
 import Navigation from './navigation'
@@ -25,7 +24,7 @@ const HeaderWithRouter = withRouter(Navigation);
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg">
       <Router>
         <React.Fragment>
 

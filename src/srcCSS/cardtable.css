@@ -97,8 +97,6 @@ span > p {
    background-color:#260442 !important;
    background-image: linear-gradient(to bottom right, #6b06a5, #260442);
    border:none;
-   border-radius: 0.2rem;
-
    color: whitesmoke;
 }
 

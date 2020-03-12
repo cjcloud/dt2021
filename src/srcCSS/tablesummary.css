@@ -5,6 +5,15 @@ background: linear-gradient(90deg, rgba(118, 241, 87, 0.984) 0%, rgb(113, 236, 4
     background-color:rgb(113, 236, 41);
   }
 
+  .pagetitle  {
+    color: rgb(227, 228, 240) !important;
+  }
+
+  .pagetitle > h6  {
+    color: rgb(65, 65, 66) !important;
+  }
+
+
   .td-number{
       width: 40px;
       
