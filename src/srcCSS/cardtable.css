@@ -4,32 +4,60 @@ span > p {
   padding-left: 0.5rem;
 }
 
+tr.border_bottom td {
+  border-bottom:1pt solid rgb(14, 160, 218);
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.1);    
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#teamtable {
+  border: none;
+}
+
+#tablehead {
+  border: none;
+  border-collapse:collapse;
+  border-style : hidden !important; 
+}
 
 .card > .table {
   border-right: 2px;
   border-left: 2px;
-  border-color: rgb(0,187,254);
-  margin-bottom: 0;
-  margin-right: 1rem;
-  text-indent: 1rem;
+  border-color: none;
+  background-color: none;
+  margin: 0.5rem;
   font-size: 0.8rem;
   text-align: center;
-  background-color:rgb(224, 226, 224);
-  padding-right: 8px;
-  max-width: 100%;
+  padding: 0px 1rem;
+  max-width: 80%;
   min-width: 362px;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  
 }
 .card > .table:last-child {
   border-bottom: 4px;
 }
+.card.table.nobgrnd:first-child{
+  background-color: rgb(0,187,254) !important;
+  border: none;
+}
 .card > .tr:nth-child(odd) {
-  background-color: rgb(153, 156, 153) !important;
+  background-color: rgb(153, 156, 153);
+}
+.card > tr:first-child {
+  background-color: rgb(233, 162, 19) !important;
 }
 .card > .table:not(.table-sm) th, .card > .table:not(.table-sm) td {
   padding: 0.1rem 0.1rem;
 }
 .card > .table td:first-child, .card > .table th:first-child {
-  border-left: 2px;
+  border-left: none;
+  text-indent: 1rem;
+  /* display: none; */
 }
 .card > .table td:last-child, .card > .table th:last-child {
   border-right: 0;
@@ -45,50 +73,64 @@ span > p {
 }
 
 .th {
-  background-color: #340957 !important;
+ 
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
   font-size:0.7rem;
-  min-width: 362px;
 }
+
+.table th:first-child  {
+  background-color: #260442 !important;
+  border-top-left-radius: 18px;
+  border-collapse:collapse;
+  border-style : hidden!important; 
+ 
+}
+
+.table th + th  {
+  background-color: #260442 !important;
+  border-collapse:collapse;
+  border-style : hidden!important; 
+
+}
+
+#lasthead {
+  border-top-right-radius: 18px;
+  margin-right: 6px
+
+}
+
 .card-header {
     text-align: left;
     font-size: 0.8rem;
     font-weight: bold; 
     font-style: italic; 
-    color: rgb(43, 2, 53) !important;
-
-    background-color: #0eda0e !important;
-    background-image: linear-gradient(to bottom right, #0eda0e, rgb(8, 216, 42));
+    color: rgb(43, 2, 53);
+    border-bottom-style: hidden !important; 
+    background-color: rgb(14, 160, 218) !important;
+    background-image: linear-gradient(to bottom right, rgb(14, 160, 218), rgb(8, 140, 216));
     height: 2rem;
     padding-bottom: 0rem !important;
-  padding-top: 0rem !important;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
- 
- /*  border-right: 8px !important;
-  border-left: 2px;
-  border-color: transparent; */
- 
-  max-width: 100%;
-  min-width: 362px;
-  
-}
+    padding-top: 0rem !important;
+    margin-bottom: 0.5rem;
+ }
 
 .card-header > span {
-  background-color: #0eda0e !important;
+  background-color: transparent !important;
   padding-left:3rem;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0;
   font-size: 1.2rem;
   font-weight: 500;  
 }
 
 .card {
  
-   margin-top: 0.8rem;
+   margin: 0.6rem;
   max-width: 1000px;
-    min-width: 362px;
-    background-color: #0eda0e !important;
-    border:none;
+    min-width: 400px;
+    background-color: rgb(14, 160, 218) !important;
+    background-image: linear-gradient(to bottom right, rgb(14, 160, 218), rgb(8, 140, 216));
+    border:none !important;
+    align-items: center;
 }
 
 .banner {
@@ -120,7 +162,26 @@ color: rgb(224, 226, 224);
   padding-bottom: 0.5rem;
   font-weight: 500;  
   font-size: 0.9rem;
+  border-top-left-radius: 25px;
 }
+
+.neomorph-1 {
+  box-shadow: 
+    10px 10px 8px 0 rgba(58, 41, 41, 0.3),
+    -4px -4px 6px 0 rgba(255, 255, 255, 0.3);
+  border-radius: 50px !important;
+  
+}
+
+.neomorph-2 {
+  box-shadow: 
+    10px 10px 8px 0 rgba(58, 41, 41, 0.3),
+    -4px -4px 6px 0 rgba(255, 255, 255, 0.3);
+  border-radius: 18px !important;
+  
+}
+
+
 
 .card-footer > span {
   padding-right: 1rem;
@@ -143,6 +204,7 @@ color: rgb(224, 226, 224);
 
  .tbl-left {
   text-align: left;
+  border: none;
  }
 
  .spacer {

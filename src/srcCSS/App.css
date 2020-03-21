@@ -4,10 +4,9 @@
   }
 
   .bg {
-    background-image: url(..//images/DT-bgrd.svg);
+    background-color:   #639BE4;
     height: 100%;
     background-position: center;
-    background-repeat: repeat;
     background-size: cover;
     }
 

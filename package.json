@@ -45,6 +45,12 @@
       "last 1 safari version"
     ]
   },
+  "rewrites": [
+    {
+      "source": "**",
+      "destination": "/index.html"
+    }
+  ],
   "devDependencies": {
     "bootstrap4-card-tables": "^1.2.1"
   }

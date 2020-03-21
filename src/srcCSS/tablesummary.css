@@ -1,8 +1,26 @@
 .table-summary {
     max-width: 550px;
-   
-background: linear-gradient(90deg, rgba(118, 241, 87, 0.984) 0%, rgb(113, 236, 41) 100%);
+    background: linear-gradient(90deg, rgba(118, 241, 87, 0.984) 0%, rgb(113, 236, 41) 100%);
     background-color:rgb(113, 236, 41);
+    border-collapse:collapse;
+    border-style : hidden !important; 
+    border: 0px !important;
+  }
+
+  .table-summary thead tr th {
+    max-width: 550px;
+    background-color:transparent;
+  }
+
+  .table-summary tbody tr td {
+    background-color:transparent;
+    border-collapse:collapse;
+    border-style : hidden !important; 
+  font-size: 0.85rem;
+  }
+
+  .td-name {
+      font-weight: 550;
   }
 
   .pagetitle  {
@@ -36,6 +54,13 @@ background: linear-gradient(90deg, rgba(118, 241, 87, 0.984) 0%, rgb(113, 236, 4
     margin: 0 !important;
 
 }
+
+#cardtblsummary {
+    max-width: 360px;
+    margin: auto;
+ }
+
+
 
 @media (max-width: 575.98px) { 
 

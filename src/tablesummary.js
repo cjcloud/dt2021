@@ -22,7 +22,7 @@ const TableHead = (data) => {
                 <th>Previous Update </th>
                 <th>Position Now</th>
                 <th>Manager Name</th>
-                <th>Total Pts</th>
+                <th id="lasthead">Total Pts</th>
             </tr>
         </thead>
     );
@@ -52,13 +52,14 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
             <div class="container tbl-summary">
                 <p class="pagetitle"><h3>Manager Summary Table</h3><h6>Last updated: {dateLastUpdated}</h6></p>
 
-                <table class="mx-auto table table-bordered table-striped table-summary" >
-                    <TableHead data={dateLastUpdated} />
-                    <tbody >
-                        <TableRow rowData={source} />
-                    </tbody>
-                </table>
-
+                <div class="" id="cardtblsummary">
+                    <table class="mx-auto table table-bordered table-striped table-summary neomorph-2" >
+                        <TableHead data={dateLastUpdated} />
+                        <tbody >
+                            <TableRow rowData={source} />
+                        </tbody>
+                    </table>
+                </div>
             </div>
         )
     }

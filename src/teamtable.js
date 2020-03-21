@@ -20,11 +20,11 @@ const TableHead = () => {
     return (
 
         <thead class="prem">
-            <tr>
-                <th class="tbl-left">Player Name</th>
+            <tr id="tablehead">
+                <th class="tbl-left nobgrnd">Player Name</th>
                 <th>Club</th>
                 <th>GW Pts</th>
-                <th>Total Pts</th>
+                <th id="lasthead">Total Pts</th>
             </tr>
         </thead>
     );
@@ -41,7 +41,7 @@ const TableRow = (teams) => {
     let result = teams.rowData.teamDetails.map(team => {
 
         return (
-            <tr>
+            <tr class="border_bottom">
                 <td class="tbl-left">{team.playerDetails.playerName}</td>
                 <td>{team.playerDetails.playerClub}</td>
                 <td>{team.gwData.gwPts}</td>
@@ -71,16 +71,19 @@ const LatestTeamTable = (managerObj1) => {
 
         return (
             <>
-                <div class=" mx-auto card">
+                <div class=" mx-auto card neomorph-1">
 
-                    <div class="card-header" > Manager: <span>{manager.manager}</span></div>
-                    <table class="table table-bordered table-striped">
-                        <TableHead />
-                        <Manager data={manager} />
-                    </table>
-                    <div class="card-footer" id='totalpts'>
-                        <div class="bf-500" > <tr><td><span class="cf-grn">GW Total Points = </span> {thisGWpts}
-                        </td>  <td>  <span class="footer-align"> <span class="cf-grn" >Season Points = </span>{playertotalpts}</span></td></tr>
+                    <div className="table">
+
+                        <div class="card-header" > Manager: <span>{manager.manager}</span></div>
+                        <table class="table table-bordered table-striped" id="teamtable">
+                            <TableHead />
+                            <Manager data={manager} />
+                        </table>
+                        <div class="card-footer neomorph-2" id='totalpts'>
+                            <div class="bf-500" > <tr><td><span class="cf-grn">GW Total Points = </span> {thisGWpts}
+                            </td>  <td>  <span class="footer-align"> <span class="cf-grn" >Season Points = </span>{playertotalpts}</span></td></tr>
+                            </div>
                         </div>
                     </div>
 
