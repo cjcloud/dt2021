@@ -23,8 +23,8 @@ const TableHead = () => {
             <tr id="tablehead">
                 <th class="tbl-left nobgrnd">Player Name</th>
                 <th>Club</th>
-                <th>GW Pts</th>
-                <th id="lasthead">Total Pts</th>
+                <th>Pts</th>
+                <th id="lasthead">Total</th>
             </tr>
         </thead>
     );
@@ -98,7 +98,7 @@ const LatestTeamTable = (managerObj1) => {
 
 const TeamTable = (managers, dateLastUpdated) =>
     <div>
-        <div class="container banner card card-body h-100 justify-content-left">
+        <div class="container banner card card-body justify-content-left" id="banner-tablesummary">
             <p> <img src={process.env.PUBLIC_URL + "/UDT Members.svg"} alt="DT" style={{ width: 60 }}></img>
                 <h3>Team Tables</h3>
                 <h6>Last Updated: {dateLastUpdated} </h6>
@@ -108,6 +108,7 @@ const TeamTable = (managers, dateLastUpdated) =>
             </p>
 
         </div>
+
 
         <GridList cellHeight={360} cols={3}>
 

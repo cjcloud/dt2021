@@ -17,7 +17,6 @@ const Navigation = () => {
                         </a>
                     </Navbar.Brand>
                     <Nav className='mr-auto navbar-dark'>
-
                         <Nav.Link href='/'>Team Tables</Nav.Link>
                         <Nav.Link href='/managersummary'>Manager Summary</Nav.Link>
                         <Nav.Link href='/information' >Info</Nav.Link>
