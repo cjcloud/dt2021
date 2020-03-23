@@ -1,22 +1,21 @@
 .App {
   text-align: center;
-  
-  }
+}
 
-  .bg {
-    background-color:   #639BE4;
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-    }
+.bg {
+  background-color: #0ea0da;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
 
-  .navbar-brand { 
-    display: flex;
-    align-items: center;
-  }
-  .navbar-brand>img {
-    padding: 7px 14px;
-  }
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.navbar-brand > img {
+  padding: 7px 14px;
+}
 
 .App-logo {
   height: 40vmin;
@@ -27,7 +26,6 @@
   display: inline;
   justify-content: space-between;
   padding-left: 0.5rem;
-
 }
 
 .sub {
@@ -35,23 +33,22 @@
   padding: none;
   margin-left: 0.5rem;
   margin-bottom: 0.5rem !important;
-
 }
 
 #container > h3 {
-  color:rgb(1, 13, 31);
-font-weight: 650;
+  color: rgb(1, 13, 31);
+  font-weight: 650;
 }
 
-#container> h6 {
- 
+#container > h6 {
   padding-top: 0rem;
-  padding-right:0.5rem;
-  
-
+  padding-right: 0.5rem;
 }
 
-body, html { overflow-x:hidden; }
+body,
+html {
+  overflow-x: hidden;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -90,5 +87,3 @@ body, html { overflow-x:hidden; }
   background-color: white;
   margin: 0 auto;
 }
-
-

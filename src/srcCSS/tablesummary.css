@@ -1,74 +1,71 @@
 .table-summary {
-    max-width: 550px;
-    background: linear-gradient(90deg, rgba(118, 241, 87, 0.984) 0%, rgb(113, 236, 41) 100%);
-    background-color:rgb(113, 236, 41);
-    border-collapse:collapse;
-    border-style : hidden !important; 
-    border: 0px !important;
-  }
-
-  .table-summary thead tr th {
-    max-width: 550px;
-    background-color:transparent;
-  }
-
-  .table-summary tbody tr td {
-    background-color:transparent;
-    border-collapse:collapse;
-    border-style : hidden !important; 
-  font-size: 0.85rem;
-  }
-
-  .td-name {
-      font-weight: 550;
-  }
-
-  .pagetitle  {
-    color: rgb(227, 228, 240) !important;
-  }
-
-  .pagetitle > h6  {
-    color: rgb(65, 65, 66) !important;
-  }
-
-
-  .td-number{
-      width: 40px;
-      
-  }
-
-  .td-name{
-    width: 150px;
-    
+  max-width: 550px;
+  background: linear-gradient(
+    90deg,
+    rgba(118, 241, 87, 0.984) 0%,
+    rgb(113, 236, 41) 100%
+  );
+  background-color: rgb(113, 236, 41);
+  border-collapse: collapse;
+  border-style: hidden !important;
+  border: 0px !important;
 }
 
-.td-total{
-    width: 80px;
-    
+.table-summary thead tr th {
+  max-width: 550px;
+  background-color: transparent;
+}
+
+.table-summary tbody tr td {
+  background-color: transparent;
+  border-collapse: collapse;
+  border-style: hidden !important;
+  font-size: 0.85rem;
+}
+
+.td-name {
+  font-weight: 550;
+}
+
+.pagetitle {
+  padding-top: 1rem;
+  color: rgb(227, 228, 240) !important;
+}
+
+.pagetitle > h6 {
+  color: rgb(65, 65, 66) !important;
+}
+
+.td-number {
+  width: 40px;
+}
+
+.td-name {
+  width: 150px;
+}
+
+.td-total {
+  width: 80px;
 }
 
 .tbl-summary {
-   display: inline;
-    background: rgb(8, 183, 236) !important; 
-    padding-left: 0 !important;
-    margin: 0 !important;
-
+  display: inline;
+  background: rgb(8, 183, 236) !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
 }
 
 #cardtblsummary {
-    max-width: 360px;
-    margin: auto;
- }
+  max-width: 360px;
+  margin: auto;
+}
 
+@media (max-width: 575.98px) {
+  .tbl-summary {
+    align-items: center;
+  }
 
-
-@media (max-width: 575.98px) { 
-
-        .tbl-summary { 
-                align-items: center;
-            }
-            
-        .prem th {
-            vertical-align: middle !important;
-        }
- }
+  .prem th {
+    vertical-align: middle !important;
+  }
+}
