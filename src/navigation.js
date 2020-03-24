@@ -8,7 +8,7 @@ const Navigation = () => {
   return (
     <>
       <container>
-        <div className="sticky">
+        <div>
           <Navbar bg="dark text-white">
             <Navbar.Brand>
               <a href="/">
