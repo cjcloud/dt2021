@@ -1,14 +1,10 @@
 .table-summary {
   max-width: 550px;
-  background: linear-gradient(
-    90deg,
-    rgba(118, 241, 87, 0.984) 0%,
-    rgb(113, 236, 41) 100%
-  );
-  background-color: rgb(113, 236, 41);
-  border-collapse: collapse;
+  background: linear-gradient(90deg, #0ea0da 0%, #0fafee 100%);
+  background-color: #0ea0da;
+  /*  border-collapse: collapse;
   border-style: hidden !important;
-  border: 0px !important;
+  border: 0px !important; */
 }
 
 .table-summary thead tr th {
@@ -56,15 +52,26 @@
 }
 
 #cardtblsummary {
-  max-width: 360px;
+  max-width: 90vw;
   margin: auto;
+}
+
+#bottom-1 {
+  height: 40px;
+  background-color: #0ea0da;
+}
+#fullwidth-2 {
+  margin: 0 auto;
+  overflow-x: hidden;
 }
 
 @media (max-width: 575.98px) {
   .tbl-summary {
     align-items: center;
   }
-
+  #bottom-1 {
+    height: 20px;
+  }
   .prem th {
     vertical-align: middle !important;
   }

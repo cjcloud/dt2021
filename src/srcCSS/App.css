@@ -1,3 +1,7 @@
+/* html {
+  overflow: hidden;
+} */
+
 .App {
   text-align: center;
 }
@@ -45,9 +49,8 @@
   padding-right: 0.5rem;
 }
 
-body,
-html {
-  overflow-x: hidden;
+body {
+  margin: 0 auto;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -80,10 +83,20 @@ html {
   }
 }
 
+.App {
+  position: relative;
+}
+
 /* 612px x 792px is our default size of a PDF */
 .pdf {
   width: 612px;
   height: 792px;
   background-color: white;
   margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  .App {
+    position: static;
+  }
 }

@@ -95,7 +95,7 @@ const LatestTeamTable = managerObj1 => {
 };
 
 const TeamTable = (managers, dateLastUpdated) => (
-  <div>
+  <div id="fullwidth">
     <div
       class="container banner card card-body justify-content-left"
       id="banner-tablesummary"

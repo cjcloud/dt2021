@@ -1,27 +1,37 @@
 .info > h5 {
-    color: rgb(230, 126, 8);
+  color: rgb(230, 126, 8);
 }
 
-.infoCard  {
-    background: linear-gradient(90deg, rgba(31, 165, 218, 0.984) 0%, rgb(12, 196, 241) 100%);
-    background-color: hsl(197, 100%, 50%);
-    padding-top: -8px !important;
-    margin-top: 0 !important;
+.infoCard {
+  background-color: hsl(197, 100%, 50%);
+  padding-top: -8px !important;
+  margin-top: 0 !important;
+
+  border-collapse: collapse !important;
+  border-bottom-style: hidden !important;
+  border-color: transparent;
 }
 
+#infocard-1 {
+  height: 100vh;
+  background: linear-gradient(
+    90deg,
+    rgba(31, 165, 218, 0.984) 0%,
+    rgb(12, 196, 241) 100%
+  );
+}
 .info {
-    padding-right: 0.8rem;
-    text-align: left;
+  padding-right: 0.8rem;
+  text-align: left;
 }
 
 .bullet-title {
-   font-weight: 600;
-   padding-bottom: 0;
-   margin-bottom: 0;
+  font-weight: 600;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 .imageCtr {
-    
-    margin-left: auto;
-    margin-right: 2rem;
-    display: block;
- }
+  margin-left: auto;
+  margin-right: 2rem;
+  display: block;
+}

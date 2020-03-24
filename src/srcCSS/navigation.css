@@ -1,5 +1,6 @@
 .nav-link {
   color: rgb(209, 231, 245) !important;
+  font-size: 0.9rem;
 }
 .navbar {
   padding: 8px 10px !important;
@@ -11,9 +12,16 @@
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
+/* .sticky {
   position: fixed;
   top: 0;
   width: 100vw;
-  z-index: 9999;
-}
+  z-index: 9999; 
+}*/
+
+/* @media (min-width: 576px) {
+  .sticky {
+    position: static;
+  }
+
+} */
