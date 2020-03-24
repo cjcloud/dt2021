@@ -68,10 +68,10 @@ const LatestTeamTable = managerObj1 => {
               <Manager data={manager} />
             </table>
             <div class="card-footer neomorph-2" id="totalpts">
-              <div class="bf-500">
+              <div class="bf-500 footer-spacing">
                 <tr>
                   <td>
-                    <div className="">
+                    <div>
                       <span class="cf-grn">GW Total Points</span>
                       <span> {thisGWpts}</span>
                     </div>
@@ -79,8 +79,8 @@ const LatestTeamTable = managerObj1 => {
                   <td>
                     {" "}
                     <div>
-                      <span class="cf-grn footer-left">Season Points</span>
-                      <span class="footer-left"> {playertotalpts}</span>
+                      <span class="cf-grn">Season Points</span>
+                      <span> {playertotalpts}</span>
                     </div>
                   </td>
                 </tr>

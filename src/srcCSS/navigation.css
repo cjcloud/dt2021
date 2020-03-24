@@ -5,6 +5,7 @@
 .navbar {
   padding: 8px 10px !important;
   margin-bottom: 0 !important;
+  width: 100vw;
 }
 /* Page content */
 .content {

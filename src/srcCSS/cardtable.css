@@ -280,8 +280,10 @@ span.cf-grn {
   font-weight: 600;
 }
 
-.footer-left {
-  margin-left: 0;
+.footer-spacing {
+  border-collapse: separate;
+  border-spacing: 10px;
+  *border-collapse: expression("separate", cellSpacing = "10px");
 }
 
 @media (min-width: 576px) {
@@ -291,7 +293,7 @@ span.cf-grn {
   body {
     padding-top: 0px;
   }
-  /*  #fullwidth {
-    overflow: auto;
-  } */
+  .neomorph-1 {
+    min-width: 400px;
+  }
 }
