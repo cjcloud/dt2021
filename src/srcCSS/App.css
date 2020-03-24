@@ -50,7 +50,13 @@
 }
 
 body {
-  margin: 0 auto;
+  background-color: #0ea0da;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
 }
 
 @media (prefers-reduced-motion: no-preference) {

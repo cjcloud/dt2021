@@ -58,14 +58,6 @@ export default function InfoCard() {
             </ul>
 
             <Introspection />
-            <Button
-              class="btn-success btn-lg"
-              size="small"
-              href="https://dt-appx-up.firebaseapp.com/index.html"
-            >
-              Back to Tables
-            </Button>
-
             <img
               className="imageCtr"
               src={process.env.PUBLIC_URL + "/UDT Members.svg"}
