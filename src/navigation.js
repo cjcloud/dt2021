@@ -22,6 +22,9 @@ const Navigation = () => {
             <Nav className="mr-auto navbar-dark">
               <Nav.Link href="/">Team Tables</Nav.Link>
               <Nav.Link href="/managersummary">Manager Summary</Nav.Link>
+              <Nav.Link href="/managersummarylockdown">
+                Since Lock Down
+              </Nav.Link>
               <Nav.Link href="/information">Info</Nav.Link>
             </Nav>
           </Navbar>

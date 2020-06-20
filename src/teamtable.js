@@ -25,14 +25,14 @@ const TableHead = () => {
   );
 };
 
-const TableRow = teams => {
+const TableRow = (teams) => {
   console.log("teams");
   console.log(teams);
 
   console.log("teams.rowData");
   console.log(teams.rowData);
 
-  let result = teams.rowData.teamDetails.map(team => {
+  let result = teams.rowData.teamDetails.map((team) => {
     return (
       <tr class="border_bottom">
         <td class="tbl-left">{team.playerDetails.playerName}</td>
@@ -45,13 +45,13 @@ const TableRow = teams => {
   return result;
 };
 
-const LatestTeamTable = managerObj1 => {
-  let result = managerObj1.managers.map(manager => {
-    let playertotalpts = manager.teamDetails.reduce(function(sum, elem) {
+const LatestTeamTable = (managerObj1) => {
+  let result = managerObj1.managers.map((manager) => {
+    let playertotalpts = manager.teamDetails.reduce(function (sum, elem) {
       return sum + elem.gwData.gwTotalPts;
     }, 0);
 
-    let thisGWpts = manager.teamDetails.reduce(function(sum, elem) {
+    let thisGWpts = manager.teamDetails.reduce(function (sum, elem) {
       return sum + elem.gwData.gwPts;
     }, 0);
 
@@ -71,16 +71,19 @@ const LatestTeamTable = managerObj1 => {
               <div class="bf-500 footer-spacing">
                 <tr>
                   <td>
-                    <div>
-                      <span class="cf-grn">GW Total Points</span>
-                      <span> {thisGWpts}</span>
+                    <div class="onleft">
+                      <span id="foottbl1" class="cf-grn foottbl3">
+                        GW Points
+                      </span>
+                      <span id="foottbl1"> {thisGWpts}</span>
                     </div>
-                  </td>{" "}
+                  </td>
                   <td>
-                    {" "}
-                    <div>
-                      <span class="cf-grn">Season Points</span>
-                      <span> {playertotalpts}</span>
+                    <div class="onright">
+                      <span id="foottbl2" class="cf-grn foottbl3">
+                        Season Points
+                      </span>
+                      <span id="foottbl2"> {playertotalpts}</span>
                     </div>
                   </td>
                 </tr>
@@ -100,21 +103,16 @@ const TeamTable = (managers, dateLastUpdated) => (
       class="container banner card card-body justify-content-left"
       id="banner-tablesummary"
     >
-      <p>
-        {" "}
-        <img
-          src={process.env.PUBLIC_URL + "/UDT Members.svg"}
-          alt="DT"
-          style={{ width: 60 }}
-        ></img>
-        <div className="banner-text">
-          <h3>Team Tables</h3>
-          <h6>Last Updated: {dateLastUpdated} </h6>
-          <span>
-            <p class="smalltxt">GW points are calculated from Fri to Fri</p>
-          </span>
-        </div>
-      </p>
+      <div style={{ float: `left` }}>
+        <h3>Team Tables</h3>
+        <h6>Last Updated: {dateLastUpdated} </h6>
+        <span>
+          <p class="smalltxt">
+            Game Week (GW) points are calculated from Friday to Friday
+          </p>
+        </span>
+      </div>
+      <div style={{ float: `right` }}></div>
     </div>
     <container id="info-2">
       <div id="info-1"> Scroll down to see your table</div>

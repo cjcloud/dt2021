@@ -3,13 +3,13 @@ span > p {
 }
 
 #banner-tablesummary {
-  border-top: 12pt solid #0ea0da !important;
+  border-top: 6pt solid #a0a5b3 !important;
 }
 
 #banner-tablesummary p {
   min-width: 100%;
   margin-bottom: 0;
-  text-align: left;
+  /* text-align: left; */
 }
 
 tr.border_bottom td {
@@ -35,6 +35,10 @@ tr.border_bottom td {
 
 .clear {
   clear: both;
+}
+
+div.inline {
+  float: left;
 }
 
 #info-2 {
@@ -88,7 +92,7 @@ tr.border_bottom td {
   font-size: 0.8rem;
   text-align: center;
   padding: 0px;
-  max-width: 90%;
+  max-width: 90vw;
   /* min-width: 362px; */
   margin: auto;
   margin-top: 1rem;
@@ -226,16 +230,19 @@ span.cf-grn {
 }
 
 .neomorph-1 {
-  box-shadow: 10px 10px 20px 0 #357499, -4px -4px 50px 0 #62d5ff;
   border-radius: 50px !important;
   min-width: 90%;
   margin: 0.6rem 0.8rem;
 }
 
 .neomorph-2 {
+  border-radius: 18px !important;
+}
+
+.neocopy {
   box-shadow: 10px 10px 8px 0 rgba(58, 41, 41, 0.3),
     -4px -4px 6px 0 rgba(255, 255, 255, 0.3);
-  border-radius: 18px !important;
+  box-shadow: 10px 10px 20px 0 #357499, -4px -4px 50px 0 #cde3eb;
 }
 
 .card-footer > span {
@@ -265,7 +272,7 @@ span.cf-grn {
 .spacer {
   height: 0.5rem;
   margin-bottom: 0;
-  background-color: rgb(0, 187, 254);
+  background-color: #dce0e2;
 }
 .navtheme {
   background-color: purple !important;
@@ -282,6 +289,29 @@ span.cf-grn {
   *border-collapse: expression("separate", cellSpacing = "10px");
 }
 
+#foottbl1 {
+  margin-bottom: 0.2rem;
+  margin-right: 2rem;
+}
+
+#foottbl2 {
+  margin-bottom: 0.2rem;
+}
+
+.foottbl3 {
+  font-size: smaller;
+}
+
+.onleft {
+  display: table;
+  margin: 0, auto;
+}
+
+.onright {
+  display: table;
+  margin: 0, auto;
+}
+
 @media (min-width: 576px) {
   .th {
     font-size: 1rem;
@@ -291,5 +321,6 @@ span.cf-grn {
   }
   .neomorph-1 {
     min-width: 400px;
+    max-width: 90vw;
   }
 }

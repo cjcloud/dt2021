@@ -36,7 +36,14 @@ export default function InfoCard() {
 
             <ul className="list">
               <p className="bullet-title">On iPhone</p>
-              <li>Whilst on Team tables - Go to "Create Bookmark"</li>
+              <li>
+                Whilst on Team tables - Go to "Share"{" "}
+                <img
+                  src={process.env.PUBLIC_URL + "/iOSShare.svg"}
+                  style={{ width: 15, marginTop: -10 }}
+                  alt="badge"
+                ></img>
+              </li>
               <li>Scroll down to find "add to Homescreen"</li>
               <li>
                 This will create an icon on your phone that you can use to
