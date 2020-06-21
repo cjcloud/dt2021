@@ -2,8 +2,7 @@ import React from "react";
 import { GridList } from "@material-ui/core";
 
 const Manager = ({ data }) => {
-  console.log("data = ");
-  console.log(data);
+  console.log("Manager -> data", data);
 
   return (
     <tbody>
@@ -26,8 +25,7 @@ const TableHead = () => {
 };
 
 const TableRow = (teams) => {
-  console.log("teams");
-  console.log(teams);
+  console.log("TableRow -> teams", teams);
 
   console.log("teams.rowData");
   console.log(teams.rowData);

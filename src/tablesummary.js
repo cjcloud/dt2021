@@ -2,11 +2,11 @@ import React from "react";
 
 /* This app builds the manager summary table to display the weekly rankings of the managers */
 
-const TableHead = data => {
-  console.log(data);
+const TableHead = (data) => {
+  console.log("TableHead -> data", data);
 
   let datastring = JSON.stringify(data);
-  console.log(datastring);
+  console.log("datastring", datastring);
 
   let dateStr = datastring;
 
@@ -24,8 +24,8 @@ const TableHead = data => {
   );
 };
 
-const TableRow = teams => {
-  let result = teams.rowData.map(team => {
+const TableRow = (teams) => {
+  let result = teams.rowData.map((team) => {
     return (
       <tr>
         <td className="td-number">{team.managerPosLast}</td>
@@ -39,7 +39,7 @@ const TableRow = teams => {
 };
 
 const ManagerSummaryTable = (source, dateLastUpdated) => {
-  const result = source => {
+  const result = (source) => {
     return (
       <div class="container" id="fullwidth-2">
         <p class="pagetitle">

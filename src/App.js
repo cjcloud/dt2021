@@ -15,6 +15,7 @@ import managersJSON from "./srcData/managersData.json";
 import managerSummaryJSON from "./srcData/managerSummary.json";
 import managerSummaryLockdownJSON from "./srcData/managerSummaryLockdown.json";
 import InfoCard from "./information";
+// import DataPage from "./datapage";
 let managers = managersJSON;
 let managerSummary = managerSummaryJSON;
 let managerSummaryLockdown = managerSummaryLockdownJSON;
@@ -49,6 +50,7 @@ function App() {
             }
           />
           <Route path="/information" render={() => InfoCard()} />
+          {/* <Route path="/datapage" render={() => DataPage()} /> */}
         </React.Fragment>
       </Router>
     </div>

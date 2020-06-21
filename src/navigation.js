@@ -26,6 +26,7 @@ const Navigation = () => {
                 Since Lock Down
               </Nav.Link>
               <Nav.Link href="/information">Info</Nav.Link>
+              {/* <Nav.Link href="/datapage">Data</Nav.Link>*/}
             </Nav>
           </Navbar>
         </div>
