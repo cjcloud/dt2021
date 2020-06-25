@@ -9,6 +9,7 @@ export default function DataPage() {
       <Button color="primary" onClick={() => newScrape()}>
         SCRAPE
       </Button>
+      <div>{message}</div>
     </div>
   );
 }

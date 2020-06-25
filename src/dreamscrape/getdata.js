@@ -17,9 +17,6 @@ const dummyContent = {
 // Set up puppeteer
 const puppeteer = require("puppeteer");
 
-//the playerStatsUrl is the location of the player data
-let playerStatsUrl = "https://www.dreamteamfc.com/g/#season/stats-centre-stats";
-
 //try to offset tests for bots by providing the userAgent
 const preparePageForTests = async (page) => {
   // Pass the User-Agent Test.
@@ -34,7 +31,72 @@ const preparePageForTests = async (page) => {
 //matchcentre has the game week
 //playerStats has the player detail and game week data
 
-async function getData() {
+// export  async (req, res) => {
+//   try {
+//     await getData()
+//       .then((value) => {
+//         //write data to file data.json
+//         let contentData = value;
+//         if (contentData === undefined || contentData.length === 0) {
+//           contentData = dummyContent;
+//         } else {
+//           // console.log("This is value" + contentData);
+//           fs.writeFile(
+//             "../srcData/scrapedData/playerData.json",
+//             contentData,
+//             (err) => {
+//               if (err) {
+//                 console.error(err);
+//               }
+//               console.log("File: playerDataJSON has been created");
+//               // This file is used by Excel program
+//             }
+//           );
+//           fs.writeFile(
+//             "../srcData/scrapedData/data.json",
+//             contentData,
+//             (err) => {
+//               if (err) {
+//                 console.error(err);
+//               }
+//               console.log("File: data.json has been created");
+//             }
+//           );
+//           let today = new Date();
+//           let timeUpdated = Date().slice(16, 21);
+//           let dd = today.getDate();
+
+//           let mm = today.getMonth() + 1;
+//           let yyyy = today.getFullYear();
+
+//           const dateUpdated =
+//             dd + "/" + mm + "/" + yyyy + " at: " + timeUpdated;
+//           console.log(dateUpdated);
+//           let dateLastUpdated = [{ dateLastUpdated: dateUpdated }];
+//           dateLastUpdatedJSON = JSON.stringify(dateLastUpdated);
+//           const uPathName = "./dateLastUpdated.json";
+
+//           fs.writeFile(uPathName, dateLastUpdatedJSON, (err) => {
+//             if (err) {
+//               console.error(err);
+//             }
+//             console.log("File: dateLastUpdated.json has been created in DTFB");
+//             res
+//               .status(200)
+//               .json({ message: "get~data has finished without Error" });
+//           });
+//         }
+//       })
+//       .catch((err) => console.log(err));
+//     console.log("get~data has finished");
+//   } catch (e) {
+//     console.error(e);
+//     res.status(e.status || 400).json({ message: "API Error" });
+//   }
+
+// };
+
+const getData = async () => {
   // launch browser visbly to allow console.log debugging or set to headless: true when app stable
   const browser = await puppeteer.launch({ headless: true, devtools: true });
 
@@ -106,6 +168,10 @@ async function getData() {
   /*===========================================================================*/
   console.log("This is the GW scraped1  =  " + thisGW);
   // open new page and scrape for player details and gameweek data
+
+  //the playerStatsUrl is the location of the player data
+  let playerStatsUrl =
+    "https://www.dreamteamfc.com/g/#season/stats-centre-stats";
 
   const page = await browser.newPage();
   await preparePageForTests(page);
@@ -291,8 +357,6 @@ async function getData() {
           };
 
           let currentPlayerId = player.playerId;
-          // let f = Number;
-          //   let gwExists = false;
 
           /* Define function to search obj for key and return the value of  */
 
@@ -419,4 +483,4 @@ const newScrape = async () =>
     })
     .catch((err) => console.log(err));
 
-export default newScrape;
+export default newScrape();

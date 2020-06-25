@@ -43,7 +43,7 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
     return (
       <div class="container" id="fullwidth-2">
         <p class="pagetitle">
-          <h3>Manager Summary Table</h3>
+          <h3 id="toptitle1">Manager Summary Table</h3>
           <h6>Last updated: {dateLastUpdated}</h6>
         </p>
 

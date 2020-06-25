@@ -15,8 +15,8 @@ const TableHead = (data) => {
   return (
     <thead className="prem">
       <tr>
-        <th>Previous Update </th>
-        <th>Position Now</th>
+        <th>Position Season </th>
+        <th>Position Lockdown</th>
         <th>Manager Name</th>
         <th id="lasthead">Total Pts</th>
       </tr>
@@ -43,8 +43,8 @@ const ManagerSummaryTableLockDown = (source, dateLastUpdated) => {
     return (
       <div class="container" id="fullwidth-2">
         <p class="pagetitle">
-          <h2>Manager Summary Table</h2>
-          <h3>Points gained Post Lock down</h3>
+          <h3 id="toptitle1">Manager Summary Table</h3>
+          <h3>Points gained Post Lockdown</h3>
 
           <h6>Last updated: {dateLastUpdated}</h6>
         </p>

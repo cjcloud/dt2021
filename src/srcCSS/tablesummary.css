@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Niramit");
+
 .table-summary {
   max-width: 550px;
   background: linear-gradient(90deg, #0ea0da 0%, #0fafee 100%);
@@ -26,10 +28,22 @@
 .pagetitle {
   padding-top: 1rem;
   color: rgb(2, 12, 119) !important;
+  font-family: "Niramit";
+}
+
+.pagetitle > h3 {
+  font-size: 1.2rem;
 }
 
 .pagetitle > h6 {
   color: rgb(65, 65, 66) !important;
+  font-size: 1rem;
+}
+
+#toptitle1 {
+  margin-bottom: 0;
+  font-size: 1.6rem;
+  font-weight: bolder;
 }
 
 .td-number {

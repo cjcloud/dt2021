@@ -59,7 +59,8 @@ const LatestTeamTable = (managerObj1) => {
           <div className="table">
             <div class="card-header">
               {" "}
-              Manager: <span>{manager.manager}</span>
+              <span id="manager">Manager:</span>{" "}
+              <span id="managername">{manager.manager}</span>
             </div>
             <table class="table table-bordered table-striped" id="teamtable">
               <TableHead />
@@ -97,11 +98,11 @@ const LatestTeamTable = (managerObj1) => {
 
 const TeamTable = (managers, dateLastUpdated) => (
   <div id="fullwidth">
-    <div
-      class="container banner card card-body justify-content-left"
-      id="banner-tablesummary"
-    >
-      <div style={{ float: `left` }}>
+    <div id="bigbanner" class="container banner card card-body">
+      <div id="teamimage">
+        <img src={process.env.PUBLIC_URL + "/UDT Members.svg"} alt="badge" />
+      </div>
+      <div id="teambanner">
         <h3>Team Tables</h3>
         <h6>Last Updated: {dateLastUpdated} </h6>
         <span>
@@ -110,7 +111,7 @@ const TeamTable = (managers, dateLastUpdated) => (
           </p>
         </span>
       </div>
-      <div style={{ float: `right` }}></div>
+      <div></div>
     </div>
     <container id="info-2">
       <div id="info-1"> Scroll down to see your table</div>
