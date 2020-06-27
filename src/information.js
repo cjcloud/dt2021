@@ -27,7 +27,9 @@ export default function InfoCard() {
             align-text="left"
             gutterBottom
           >
-            <h2>Information</h2>
+            <h2 class="pagetitle" id="toptitle1">
+              Information
+            </h2>
           </Typography>
           <Typography className="info" variant="h5" component="h2"></Typography>
 
