@@ -15,7 +15,9 @@ import managersJSON from "./srcData/managersData.json";
 import managerSummaryJSON from "./srcData/managerSummary.json";
 import managerSummaryLockdownJSON from "./srcData/managerSummaryLockdown.json";
 import InfoCard from "./information";
-// import DataPage from "./datapage";
+import NestedGrid from "./nested";
+import TeamCard from "./teamcard";
+import JustifyContent from "./pitch";
 let managers = managersJSON;
 let managerSummary = managerSummaryJSON;
 let managerSummaryLockdown = managerSummaryLockdownJSON;
@@ -50,7 +52,9 @@ function App() {
             }
           />
           <Route path="/information" render={() => InfoCard()} />
-          {/* <Route path="/datapage" render={() => DataPage()} /> */}
+          <Route path="/nested" render={() => NestedGrid()} />
+          <Route path="/teamcard" render={() => TeamCard()} />
+          <Route path="/pitch" render={() => JustifyContent()} />
         </React.Fragment>
       </Router>
     </div>

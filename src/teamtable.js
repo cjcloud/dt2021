@@ -69,7 +69,7 @@ const LatestTeamTable = (managerObj1) => {
             <div class="card-footer neomorph-2" id="totalpts">
               <div class="bf-500 footer-spacing">
                 <tr>
-                  <td>
+                  <td id="cell1">
                     <div class="onleft">
                       <span id="foottbl1" class="cf-grn foottbl3">
                         GW Points
