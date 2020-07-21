@@ -4,17 +4,27 @@ import CardContent from "@material-ui/core/CardContent";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 
-class Introspection extends React.Component {
-  render() {
+// class Introspection extends React.Component {
+//   render() {
+//     return (
+//       <div>
+//         {process.env.NODE_ENV === "development" ? (
+//           <p>Currently using React {React.version}</p>
+//         ) : null}
+//       </div>
+//     );
+//   }
+// }
+
+const Introspection = () => {
+  if (process.env.NODE_ENV === "development") {
     return (
       <div>
-        {process.env.NODE_ENV === "development" ? (
-          <p>Currently using React {React.version}</p>
-        ) : null}
+        <p>Currently using React {React.version}</p>
       </div>
     );
   }
-}
+};
 
 export default function InfoCard() {
   return (

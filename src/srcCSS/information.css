@@ -3,13 +3,14 @@
 }
 
 .infoCard {
-  background-color: hsl(197, 100%, 50%);
+  height: 100vh;
+  background-color: rgba(31, 165, 218, 0.984);
   padding-top: -8px !important;
   margin-top: 0 !important;
 
   border-collapse: collapse !important;
   border-bottom-style: hidden !important;
-  border-color: transparent;
+  border-color: rgba(31, 165, 218, 0.984);
 }
 
 #infocard-1 {
