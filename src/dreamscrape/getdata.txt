@@ -428,9 +428,10 @@ const getData = async () => {
   if (!scrapedResult) {
     console.log("problems @ 365");
   } else {
-    console.log("playerData @ 365= " + "scrapedResult");
-  }
+    console.log("playerData @ 365= scrapedResult");
+
   return scrapedResult;
+}
 }
 
 //Once all scraping  done put data in file : data.json
@@ -470,7 +471,7 @@ const newScrape = async () =>
         const dateUpdated = dd + "/" + mm + "/" + yyyy + " at: " + timeUpdated;
         console.log(dateUpdated);
         let dateLastUpdated = [{ dateLastUpdated: dateUpdated }];
-        dateLastUpdatedJSON = JSON.stringify(dateLastUpdated);
+        let dateLastUpdatedJSON = JSON.stringify(dateLastUpdated);
         const uPathName = "./dateLastUpdated.json";
 
         fs.writeFile(uPathName, dateLastUpdatedJSON, (err) => {
@@ -483,4 +484,4 @@ const newScrape = async () =>
     })
     .catch((err) => console.log(err));
 
-export default newScrape();
+export default newScrape()

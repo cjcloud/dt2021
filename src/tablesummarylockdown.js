@@ -15,7 +15,7 @@ const TableHead = (data) => {
   return (
     <thead className="prem">
       <tr>
-        <th>Position Season </th>
+        <th id="firsthead">Position Season </th>
         <th>Position Lockdown</th>
         <th>Manager Name</th>
         <th id="lasthead">Total Pts</th>

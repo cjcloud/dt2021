@@ -22,6 +22,7 @@
   width: 100vw;
   height: 100vh;
   background-color: rgba(31, 165, 218, 0.984);
+  margin-left: 0px;
 }
 .info {
   padding-right: 0.8rem;

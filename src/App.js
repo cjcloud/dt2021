@@ -4,6 +4,7 @@ import "./srcCSS/cardtable.css";
 import "./srcCSS/tablesummary.css";
 import "./srcCSS/information.css";
 import TeamTable from "./teamtable";
+/* import FinalTable from "./tablesummaryfinal"; */
 import ManagerSummaryTable from "./tablesummary";
 import ManagerSummaryTableLockDown from "./tablesummarylockdown";
 import Navigation from "./navigation";
@@ -21,6 +22,7 @@ let managerSummary = managerSummaryJSON;
 let managerSummaryLockdown = managerSummaryLockdownJSON;
 let dateLastUpdated = dateUpdated[0].dateLastUpdated;
 
+
 // Orignal Code from https://material-ui.com/components/tables/
 
 const HeaderWithRouter = withRouter(Navigation);
@@ -37,6 +39,11 @@ function App() {
             render={() => TeamTable(managers, dateLastUpdated)}
           />
           <Route
+            path="/teamtable"
+            exact
+            render={() => TeamTable(managers, dateLastUpdated)}
+          />
+          <Route
             path="/managersummary"
             render={() => ManagerSummaryTable(managerSummary, dateLastUpdated)}
           />
@@ -49,7 +56,7 @@ function App() {
               )
             }
           />
-          <Route path="/information" render={() => InfoCard()} />
+          {/* <Route path="/information" render={() => InfoCard()} /> */}
         </React.Fragment>
       </Router>
     </div>

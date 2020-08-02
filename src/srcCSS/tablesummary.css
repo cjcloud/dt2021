@@ -59,7 +59,7 @@
 }
 
 .tbl-summary {
-  display: inline;
+  display: inline-block;
   background: rgb(8, 183, 236) !important;
   padding-left: 0 !important;
   margin: 0 !important;
@@ -70,9 +70,18 @@
   margin: auto;
 }
 
+#cardtblFinal {
+  float: left;
+  max-width: 20vw;
+  margin: auto;
+}
+
+#cardtblFinal.final1 {
+  float: right;
+}
+
 #bottom-1 {
   height: 40px;
-  background-color: #0ea0da;
 }
 #fullwidth-2 {
   margin: 0 auto;

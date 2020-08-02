@@ -14,8 +14,33 @@ const TableHead = (data) => {
 
   return (
     <thead className="prem">
+      <th id="tablecaption" colSpan={4}>
+        All points for the Season
+      </th>
       <tr>
-        <th id="firsthead">Previous Update </th>
+        <th>Previous Update </th>
+        <th>Position Now</th>
+        <th>Manager Name</th>
+        <th>Total Pts</th>
+      </tr>
+    </thead>
+  );
+};
+
+const TableHeadPL = (data) => {
+  console.log("TableHead -> data", data);
+
+  let datastring = JSON.stringify(data);
+  console.log("datastring", datastring);
+
+  let dateStr = datastring;
+
+  let dateLast = dateStr.slice(9, 27);
+
+  return (
+    <thead className="prem">
+      <tr>
+        <th>Previous Update </th>
         <th>Position Now</th>
         <th>Manager Name</th>
         <th id="lasthead">Total Pts</th>
@@ -23,7 +48,6 @@ const TableHead = (data) => {
     </thead>
   );
 };
-
 const TableRow = (teams) => {
   let result = teams.rowData.map((team) => {
     return (
@@ -38,20 +62,31 @@ const TableRow = (teams) => {
   return result;
 };
 
-const ManagerSummaryTable = (source, dateLastUpdated) => {
-  const result = (source) => {
+const FinalTable = (source1, source2, dateLastUpdated) => {
+  const result = (source1, source2) => {
     return (
       <div class="container" id="fullwidth-2">
         <p class="pagetitle">
-          <h3 id="toptitle1">Manager Summary Table</h3>
+          <h3 id="toptitle1">Final Tables</h3>
+          <h6>Top 3 positions</h6>
           <h6>Last updated: {dateLastUpdated}</h6>
         </p>
 
-        <div class="" id="cardtblsummary">
+        <div class="" id="cardtblFinal">
           <table class="mx-auto table table-bordered table-striped table-summary neomorph-2">
             <TableHead data={dateLastUpdated} />
             <tbody>
-              <TableRow rowData={source} />
+              <TableRow rowData={source1} />
+            </tbody>
+          </table>
+        </div>
+        <div id="bottom-1"></div>
+
+        <div class="" id="cardtblFinal final1">
+          <table class="mx-auto table table-bordered table-striped table-summary neomorph-2">
+            <TableHead data={dateLastUpdated} />
+            <tbody>
+              <TableRow rowData={source2} />
             </tbody>
           </table>
         </div>
@@ -59,7 +94,7 @@ const ManagerSummaryTable = (source, dateLastUpdated) => {
       </div>
     );
   };
-  return result(source);
+  return result(source1, source2);
 };
 
-export default ManagerSummaryTable;
+export default FinalTable;

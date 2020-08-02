@@ -98,18 +98,14 @@ const LatestTeamTable = (managerObj1) => {
 
 const TeamTable = (managers, dateLastUpdated) => (
   <div id="fullwidth">
-    <div id="bigbanner" class="container banner card card-body">
+    <div id="bigbanner" className="container banner card card-body">
       <div id="teamimage">
         <img src={process.env.PUBLIC_URL + "/UDT Members.svg"} alt="badge" />
       </div>
       <div id="teambanner">
         <h3>Team Tables</h3>
         <h6>Last Updated: {dateLastUpdated} </h6>
-        <span>
-          <p class="smalltxt">
-            Game Week (GW) points are calculated from Friday to Friday
-          </p>
-        </span>
+        <h6 id="final">They think it's all over... It is now!</h6>
       </div>
       <div></div>
     </div>

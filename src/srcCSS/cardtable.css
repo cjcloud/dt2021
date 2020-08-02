@@ -151,17 +151,23 @@ div.inline {
   font-size: 0.7rem;
 }
 
-.table th:first-child {
-  background-color: #260442 !important;
+#tablecaption {
+  border-top-right-radius: 18px;
   border-top-left-radius: 18px;
-  border-collapse: collapse;
-  border-style: hidden !important;
 }
 
 .table th + th {
   background-color: #260442 !important;
   border-collapse: collapse;
   border-style: hidden !important;
+}
+
+#firsthead {
+  border-top-left-radius: 18px;
+  border-style: hidden !important;
+  margin-right: 1px;
+  margin-top: 0px;
+  padding-right: 10px;
 }
 
 #lasthead {
@@ -260,6 +266,11 @@ span.cf-grn {
   display: inline;
 }
 
+#final {
+  font-weight: 700;
+  color: crimson;
+}
+
 .card-footer {
   background-color: #260442 !important;
   /* padding-left:3rem; */
@@ -301,7 +312,7 @@ span.cf-grn {
   color: rgb(240, 245, 239) !important;
   font-weight: normal;
   font-size: 0.8rem;
-  background-color: rgb(54, 3, 83);
+  background-color: #260442 !important;
   vertical-align: middle;
 }
 

@@ -1,8 +1,9 @@
 import React from "react";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
-import Button from "@material-ui/core/Button";
+/*import Button from "@material-ui/core/Button"; */
 import { Container, Typography } from "@material-ui/core";
+import DataPage from "./datapage"
 
 // When run dev server use this component to display the React version being used
 
@@ -76,8 +77,10 @@ export default function InfoCard() {
               alt="badge"
             />
           </Typography>
+         
         </CardContent>
       </Card>
+      <DataPage></DataPage>
     </Container>
   );
 }
